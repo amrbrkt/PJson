@@ -1,25 +1,27 @@
 {
-  "lastUpdate" : "04-11-2016, 14:40",
-  "cib":{
-    "arTitle" : "دولار اميريكي",
-    "enTitle": "US Dollar",
-    "iso" : "USD",
-    "logo" : "http://img.com",
-    "exRates" : [
-      {
-        "arBankName" : "البنك التجاري الدولي",
-        "enBankName" : "CIB",
-        "logo" : "http://img.com",
-        "sell" : 15.88,
-        "buy" : 16.00
-      },
-      {
-        "arBankName" : "كريدي اجريكول",
-        "enBankName" : "Credit Agricole",
-        "logo" : "http://img.com",
-        "sell" : 15.98,
-        "buy" : 16.09
-      }
-    ]
-  }
+  "lastUpdate": "04-11-2016, 14:40",
+  "rates": [
+    {
+      "arTitle": "دولار اميريكي",
+      "enTitle": "US Dollar",
+      "iso": "USD",
+      "logo": "http://img.com",
+      "exRates": [
+        {
+          "arBankName": "البنك التجاري الدولي",
+          "enBankName": "CIB",
+          "logo": "http://img.com",
+          "sell": 15.88,
+          "buy": 16
+        },
+        {
+          "arBankName": "كريدي اجريكول",
+          "enBankName": "Credit Agricole",
+          "logo": "http://img.com",
+          "sell": 15.98,
+          "buy": 16.09
+        }
+      ]
+    }
+  ]
 }
