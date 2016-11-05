@@ -22,15 +22,15 @@
           "buy": 16.09
         },
         {
-          "arBankName": "كريدي اجريكول",
-          "enBankName": "Credit Agricole",
+          "arBankName": "بلوم مصر",
+          "enBankName": "Bloom",
           "logo": "http://logodatabases.com/wp-content/uploads/2012/07/credit-agricole-logo.jpg",
           "sell": 15.98,
           "buy": 16.09
         },
         {
           "arBankName": "كريدي اجريكول",
-          "enBankName": "Credit Agricole",
+          "enBankName": "HSBC",
           "logo": "http://logodatabases.com/wp-content/uploads/2012/07/credit-agricole-logo.jpg",
           "sell": 15.98,
           "buy": 16.09
@@ -149,15 +149,15 @@
           "buy": 16.09
         },
         {
-          "arBankName": "كريدي اجريكول",
-          "enBankName": "Credit Agricole",
+          "arBankName": "بتك قطر الوطني - الأهلي",
+          "enBankName": "َQNB",
           "logo": "http://logodatabases.com/wp-content/uploads/2012/07/credit-agricole-logo.jpg",
           "sell": 15.98,
           "buy": 16.09
         },
         {
-          "arBankName": "كريدي اجريكول",
-          "enBankName": "Credit Agricole",
+          "arBankName": "المشرق",
+          "enBankName": "Mashreq Bank",
           "logo": "http://logodatabases.com/wp-content/uploads/2012/07/credit-agricole-logo.jpg",
           "sell": 15.98,
           "buy": 16.09
@@ -275,8 +275,8 @@
           "buy": 16.09
         },
         {
-          "arBankName": "كريدي اجريكول",
-          "enBankName": "Credit Agricole",
+          "arBankName": "البنك الأهلي المصري ",
+          "enBankName": "National Bank of Egypt",
           "logo": "http://logodatabases.com/wp-content/uploads/2012/07/credit-agricole-logo.jpg",
           "sell": 15.98,
           "buy": 16.09
