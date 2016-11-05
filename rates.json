@@ -132,7 +132,7 @@
       "arTitle": "جنيه استيرليني",
       "enTitle": "Sterling Pound",
       "iso": "GBP",
-      "logo": "https://github.com/hjnilsson/country-flags/blob/master/png1000px/us.png?raw=true",
+      "logo": "https://github.com/hjnilsson/country-flags/blob/master/png1000px/gb.png?raw=true",
       "exRates": [
         {
           "arBankName": "البنك التجاري الدولي",
@@ -258,7 +258,7 @@
       "arTitle": "يورو",
       "enTitle": "Euro",
       "iso": "EUR",
-      "logo": "https://github.com/hjnilsson/country-flags/blob/master/png1000px/us.png?raw=true",
+      "logo": "http://www.midland-flags.co.uk/image/cache/data/flags/world/European%20union-600x315.png",
       "exRates": [
         {
           "arBankName": "البنك التجاري الدولي",
@@ -383,9 +383,9 @@
     },
     {
       "arTitle": "فرانك سويسري",
-      "enTitle": "Swiss Frank",
+      "enTitle": "Swiss Franc",
       "iso": "CHF",
-      "logo": "https://github.com/hjnilsson/country-flags/blob/master/png1000px/us.png?raw=true",
+      "logo": "https://github.com/hjnilsson/country-flags/blob/master/png1000px/ch.png?raw=true",
       "exRates": [
         {
           "arBankName": "البنك التجاري الدولي",
@@ -512,7 +512,7 @@
       "arTitle": "ريال سعودر",
       "enTitle": "Saudi Riyal",
       "iso": "SAR",
-      "logo": "https://github.com/hjnilsson/country-flags/blob/master/png1000px/us.png?raw=true",
+      "logo": "https://github.com/hjnilsson/country-flags/blob/master/png1000px/sa.png?raw=true",
       "exRates": [
         {
           "arBankName": "البنك التجاري الدولي",
@@ -639,7 +639,7 @@
       "arTitle": "درهم اماراتي",
       "enTitle": "UAE Dirham",
       "iso": "AED",
-      "logo": "https://github.com/hjnilsson/country-flags/blob/master/png1000px/us.png?raw=true",
+      "logo": "https://github.com/hjnilsson/country-flags/blob/master/png1000px/ae.png?raw=true",
       "exRates": [
         {
           "arBankName": "البنك التجاري الدولي",
@@ -765,7 +765,7 @@
       "arTitle": "دينار كويتي",
       "enTitle": "Kuwait Dinar",
       "iso": "KWD",
-      "logo": "https://github.com/hjnilsson/country-flags/blob/master/png1000px/us.png?raw=true",
+      "logo": "https://github.com/hjnilsson/country-flags/blob/master/png1000px/kw.png?raw=true",
       "exRates": [
         {
           "arBankName": "البنك التجاري الدولي",
