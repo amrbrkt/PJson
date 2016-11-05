@@ -66,74 +66,6 @@
         {
           "arBankName": "كريدي اجريكول",
           "enBankName": "Credit Agricole",
-{
-  "lastUpdate": "04-11-2016, 14:40",
-  "currencies": [
-    {
-      "arTitle": "دولار اميريكي",
-      "enTitle": "US Dollar",
-      "iso": "USD",
-      "logo": "https://github.com/hjnilsson/country-flags/blob/master/png1000px/us.png?raw=true",
-      "exRates": [
-        {
-          "arBankName": "البنك التجاري الدولي",
-          "enBankName": "CIB",
-          "logo": "http://www.cibeg.com/English/AboutCIB/MediaCenter/PhotoGallery/CIB%20Logo/CIB%20Logo.PNG",
-          "sell": 15.88,
-          "buy": 16
-        },
-        {
-          "arBankName": "كريدي اجريكول",
-          "enBankName": "Credit Agricole",
-          "logo": "http://logodatabases.com/wp-content/uploads/2012/07/credit-agricole-logo.jpg",
-          "sell": 15.98,
-          "buy": 16.09
-        },
-        {
-          "arBankName": "كريدي اجريكول",
-          "enBankName": "Credit Agricole",
-          "logo": "http://logodatabases.com/wp-content/uploads/2012/07/credit-agricole-logo.jpg",
-          "sell": 15.98,
-          "buy": 16.09
-        },
-        {
-          "arBankName": "كريدي اجريكول",
-          "enBankName": "Credit Agricole",
-          "logo": "http://logodatabases.com/wp-content/uploads/2012/07/credit-agricole-logo.jpg",
-          "sell": 15.98,
-          "buy": 16.09
-        },
-        {
-          "arBankName": "كريدي اجريكول",
-          "enBankName": "Credit Agricole",
-          "logo": "http://logodatabases.com/wp-content/uploads/2012/07/credit-agricole-logo.jpg",
-          "sell": 15.98,
-          "buy": 16.09
-        },
-        {
-          "arBankName": "كريدي اجريكول",
-          "enBankName": "Credit Agricole",
-          "logo": "http://logodatabases.com/wp-content/uploads/2012/07/credit-agricole-logo.jpg",
-          "sell": 15.98,
-          "buy": 16.09
-        },
-        {
-          "arBankName": "كريدي اجريكول",
-          "enBankName": "Credit Agricole",
-          "logo": "http://logodatabases.com/wp-content/uploads/2012/07/credit-agricole-logo.jpg",
-          "sell": 15.98,
-          "buy": 16.09
-        },
-        {
-          "arBankName": "كريدي اجريكول",
-          "enBankName": "Credit Agricole",
-          "logo": "http://logodatabases.com/wp-content/uploads/2012/07/credit-agricole-logo.jpg",
-          "sell": 15.98,
-          "buy": 16.09
-        },
-        {
-          "arBankName": "كريدي اجريكول",
-          "enBankName": "Credit Agricole",
           "logo": "http://logodatabases.com/wp-content/uploads/2012/07/credit-agricole-logo.jpg",
           "sell": 15.98,
           "buy": 16.09
@@ -956,8 +888,5 @@
         }
       ]
     }
-  ]
-}
-
   ]
 }
