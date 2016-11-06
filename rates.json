@@ -5,15 +5,15 @@
       "arTitle": "دولار اميريكي",
       "enTitle": "US Dollar",
       "iso": "USD",
-      "logo": "https://github.com/hjnilsson/country-flags/blob/master/png1000px/us.png?raw=true",
+      "logo": "https://s26.postimg.org/ff17t8mm1/image.png",
       "exRates": [
         {
           "arBankName": "البنك التجاري الدولي",
           "enBankName": "Commerce International Bank",
           "shortName" : "CIB",
           "logo": "http://www.cibeg.com/English/AboutCIB/MediaCenter/PhotoGallery/CIB%20Logo/CIB%20Logo.PNG",
-          "sell": 15.99,
-          "buy": 16.15
+          "sell": 15.88,
+          "buy": 16
         },
         {
           "arBankName": "بنك قطر الوطني - الأهلي",
@@ -37,7 +37,7 @@
       "arTitle": "جنيه استيرليني",
       "enTitle": "Sterling Pound",
       "iso": "GBP",
-      "logo": "https://github.com/hjnilsson/country-flags/blob/master/png1000px/gb.png?raw=true",
+      "logo": "https://s26.postimg.org/5j04tlgu1/image.png",
       "exRates": [
         {
           "arBankName": "البنك التجاري الدولي",
@@ -69,7 +69,7 @@
       "arTitle": "يورو",
       "enTitle": "Euro",
       "iso": "EUR",
-      "logo": "http://www.midland-flags.co.uk/image/cache/data/flags/world/European%20union-600x315.png",
+      "logo": "https://s26.postimg.org/uindxc8zd/image.png",
       "exRates": [
         {
           "arBankName": "البنك التجاري الدولي",
@@ -101,7 +101,71 @@
       "arTitle": "فرانك سويسري",
       "enTitle": "Swiss Franc",
       "iso": "CHF",
-      "logo": "https://github.com/hjnilsson/country-flags/blob/master/png1000px/ch.png?raw=true",
+      "logo": "https://s26.postimg.org/z1v1541h5/image.png",
+      "exRates": [
+        {
+          "arBankName": "البنك التجاري الدولي",
+          "enBankName": "Commerce International Bank",
+          "shortName" : "CIB",
+          "logo": "http://www.cibeg.com/English/AboutCIB/MediaCenter/PhotoGallery/CIB%20Logo/CIB%20Logo.PNG",
+          "sell": 14.88,
+          "buy": 15.00
+        },
+        {
+          "arBankName": "بنك قطر الوطني - الأهلي",
+          "enBankName": "Qatar National Bank - Al Ahli",
+          "shortName" : "QNB",
+          "logo": "http://www.cibeg.com/English/AboutCIB/MediaCenter/PhotoGallery/CIB%20Logo/CIB%20Logo.PNG",
+          "sell": 14.92,
+          "buy": 15.05
+        },
+        {
+          "arBankName": "البنك الأهلي المصري",
+          "enBankName": "National Bank of Egypt",
+          "shortName" : "NBE",
+          "logo": "http://www.cibeg.com/English/AboutCIB/MediaCenter/PhotoGallery/CIB%20Logo/CIB%20Logo.PNG",
+          "sell": 14.68,
+          "buy": 15.93
+        }
+      ]
+    },
+    {
+      "arTitle": "100 ين ياباني",
+      "enTitle": "100 Japanese Yen",
+      "iso": "JPY",
+      "logo": "https://s26.postimg.org/6g6k2gsc9/image.png",
+      "exRates": [
+        {
+          "arBankName": "البنك التجاري الدولي",
+          "enBankName": "Commerce International Bank",
+          "shortName" : "CIB",
+          "logo": "http://www.cibeg.com/English/AboutCIB/MediaCenter/PhotoGallery/CIB%20Logo/CIB%20Logo.PNG",
+          "sell": 14.88,
+          "buy": 15.00
+        },
+        {
+          "arBankName": "بنك قطر الوطني - الأهلي",
+          "enBankName": "Qatar National Bank - Al Ahli",
+          "shortName" : "QNB",
+          "logo": "http://www.cibeg.com/English/AboutCIB/MediaCenter/PhotoGallery/CIB%20Logo/CIB%20Logo.PNG",
+          "sell": 14.92,
+          "buy": 15.05
+        },
+        {
+          "arBankName": "البنك الأهلي المصري",
+          "enBankName": "National Bank of Egypt",
+          "shortName" : "NBE",
+          "logo": "http://www.cibeg.com/English/AboutCIB/MediaCenter/PhotoGallery/CIB%20Logo/CIB%20Logo.PNG",
+          "sell": 14.68,
+          "buy": 15.93
+        }
+      ]
+    },
+    {
+      "arTitle": "يوان صيني",
+      "enTitle": "Chinese Yuan",
+      "iso": "CNY",
+      "logo": "https://s26.postimg.org/a9vexvkah/image.png",
       "exRates": [
         {
           "arBankName": "البنك التجاري الدولي",
@@ -133,7 +197,7 @@
       "arTitle": "ريال سعودر",
       "enTitle": "Saudi Riyal",
       "iso": "SAR",
-      "logo": "https://github.com/hjnilsson/country-flags/blob/master/png1000px/sa.png?raw=true",
+      "logo": "https://s26.postimg.org/fqio60321/image.png",
       "exRates": [
         {
           "arBankName": "البنك التجاري الدولي",
@@ -165,7 +229,7 @@
       "arTitle": "درهم اماراتي",
       "enTitle": "UAE Dirham",
       "iso": "AED",
-      "logo": "https://github.com/hjnilsson/country-flags/blob/master/png1000px/ae.png?raw=true",
+      "logo": "https://s26.postimg.org/a7bjb1gmx/image.png",
       "exRates": [
         {
           "arBankName": "البنك التجاري الدولي",
@@ -196,7 +260,7 @@
       "arTitle": "دينار كويتي",
       "enTitle": "Kuwait Dinar",
       "iso": "KWD",
-      "logo": "https://github.com/hjnilsson/country-flags/blob/master/png1000px/kw.png?raw=true",
+      "logo": "https://s26.postimg.org/msgls76nt/image.png",
       "exRates": [
         {
           "arBankName": "البنك التجاري الدولي",
