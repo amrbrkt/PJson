@@ -257,7 +257,7 @@
           "arBankName": "البنك الأهلي الكويتي - بيريوس",
           "enBankName": "Al Ahli Bank of Kuwait",
           "shortName" : "ABK",
-          "logo": "https://s26.postimg.org/mu13z822h/fisl.png",
+          "logo": "https://s26.postimg.org/bpc5dy4c9/abk.png",
           "sell": 21.919,
           "buy": 20.740
         },
@@ -385,7 +385,7 @@
           "arBankName": "المصرف المتحد",
           "enBankName": "The United Bank of Egypt",
           "shortName" : "The UBE",
-          "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
+          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
           "sell": 19.488,
           "buy": 17.645
         },
@@ -401,7 +401,7 @@
           "arBankName": "بنك مصر إيران للتنمية",
           "enBankName": "Misr Iran Development Bank ",
           "shortName" : "MIDB",
-          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
+          "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
           "sell": 18.884,
           "buy": 17.943
         }
@@ -521,7 +521,7 @@
           "arBankName": "المصرف المتحد",
           "enBankName": "The United Bank of Egypt",
           "shortName" : "The UBE",
-          "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
+          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
           "sell": 19.488,
           "buy": 17.645
         },
@@ -537,11 +537,11 @@
           "arBankName": "بنك مصر إيران للتنمية",
           "enBankName": "Misr Iran Development Bank ",
           "shortName" : "MIDB",
-          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
+          "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
           "sell": 18.884,
           "buy": 17.943
         }
-      ]
+        ]
     },
     {
       "arTitle": "100 ين ياباني",
