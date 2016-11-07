@@ -81,7 +81,7 @@
         {
           "arBankName": "كريدي أجريكول",
           "enBankName": "Credit Agricole",
-          "shortName" : "SCB",
+          "shortName" : "CA",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
           "sell": 17.5,
           "buy": 16.75
@@ -216,7 +216,7 @@
         {
           "arBankName": "كريدي أجريكول",
           "enBankName": "Credit Agricole",
-          "shortName" : "SCB",
+          "shortName" : "CA",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
           "sell": 21.919,
           "buy": 20.739
@@ -352,7 +352,7 @@
         {
           "arBankName": "كريدي أجريكول",
           "enBankName": "Credit Agricole",
-          "shortName" : "SCB",
+          "shortName" : "CA",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
           "sell": 19.488,
           "buy": 18.502
@@ -488,7 +488,7 @@
         {
           "arBankName": "كريدي أجريكول",
           "enBankName": "Credit Agricole",
-          "shortName" : "SCB",
+          "shortName" : "CA",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
           "sell": 19.488,
           "buy": 18.502
