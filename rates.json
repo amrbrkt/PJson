@@ -2,7 +2,7 @@
   "lastUpdate": "07-11-2016, 22:00",
   "currencies": [
     {
-      "arTitle": "دولار امريكي",
+      "arTitle": "دولار اميريكي",
       "enTitle": "US Dollar",
       "iso": "USD",
       "logo": "https://s26.postimg.org/ff17t8mm1/image.png",
@@ -12,9 +12,9 @@
           "enBankName": "Central Banck of  Egypt",
           "shortName" : "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 17.23,
-          "buy": 16.39
-        },{
+          "sell": 17.2329,
+          "buy": 16.3929},
+        {
           "arBankName": "بنك الأسكندرية",
           "enBankName": "Bank of Alexanderia",
           "shortName" : "ALEX Bank",
@@ -24,7 +24,7 @@
         },
         {
           "arBankName": "البنك التجاري الدولي",
-          "enBankName": "Commercial International Bank",
+          "enBankName": "Commerce International Bank",
           "shortName" : "CIB",
           "logo": "https://s26.postimg.org/ezuzxc709/cib.png",
           "sell": 16.9,
@@ -143,28 +143,131 @@
       "logo": "https://s26.postimg.org/5j04tlgu1/image.png",
       "exRates": [
         {
+          "arBankName": "البنك المركزي المصري",
+          "enBankName": "Central Banck of  Egypt",
+          "shortName" : "CBE",
+          "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
+          "sell": 21.419,
+          "buy": 20.370},
+        {
+          "arBankName": "بنك الأسكندرية",
+          "enBankName": "Bank of Alexanderia",
+          "shortName" : "ALEX Bank",
+          "logo": "https://s26.postimg.org/u226awl89/alex.png",
+          "sell": 21.283,
+          "buy": 20.111
+        },
+        {
           "arBankName": "البنك التجاري الدولي",
           "enBankName": "Commerce International Bank",
           "shortName" : "CIB",
           "logo": "https://s26.postimg.org/ezuzxc709/cib.png",
-          "sell": 19.88,
-          "buy": 20.01
-        },
-        {
-          "arBankName": "بنك قطر الوطني - الأهلي",
-          "enBankName": "Qatar National Bank - Al Ahli",
-          "shortName" : "QNB",
-          "logo": "https://s26.postimg.org/vu072xawp/qnb.png",
-          "sell": 19.92,
-          "buy": 20.05
+          "sell": 21.167,
+          "buy": 20.462
         },
         {
           "arBankName": "البنك الأهلي المصري",
           "enBankName": "National Bank of Egypt",
           "shortName" : "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
-          "sell": 19.58,
-          "buy": 19.93
+          "sell": 21.606,
+          "buy": 20.127
+        },
+        {
+          "arBankName": "بنك مصر",
+          "enBankName": "Banque Misr",
+          "shortName" : "Banque Misr",
+          "logo": "https://s26.postimg.org/5crhnme0p/image.png",
+          "sell": 21.595,
+          "buy": 20.430
+        },
+        {
+          "arBankName": "بنك قناة السويس",
+          "enBankName": "Suez Canal Bank",
+          "shortName" : "SCB",
+          "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
+          "sell": 21.293,
+          "buy": 19.808
+        },
+        {
+          "arBankName": "بنك الإسكان والتعمير",
+          "enBankName": "Housing and Development Bank",
+          "shortName" : "HDB",
+          "logo": "https://s26.postimg.org/m5s9ga3cp/hdb.png",
+          "sell": 21.665,
+          "buy": 19.809
+        },
+        {
+          "arBankName": "البنك المصري الخليجي",
+          "enBankName": "Egyptian Gulf Bank",
+          "shortName" : "EG Bank",
+          "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
+          "sell": 21.926,
+          "buy": 20.432
+        },
+        {
+          "arBankName": "بنك بلوم",
+          "enBankName": "Blom Bank Egypt",
+          "shortName" : "Blom",
+          "logo": "https://s26.postimg.org/uhii11dh5/bloom.png",
+          "sell": 21.605,
+          "buy": 20.137
+        },
+        {
+          "arBankName": "كريدي أجريكول",
+          "enBankName": "Credit Agricole",
+          "shortName" : "SCB",
+          "logo": "https://s26.postimg.org/py69fivll/image.png",
+          "sell": 21.919,
+          "buy": 20.739
+        },
+        {
+          "arBankName": "مصرف أبوظبي الإسلامي",
+          "enBankName": "Abu Dhabi Islamic Bank",
+          "shortName" : "ADIB",
+          "logo": "https://s26.postimg.org/bdup16nw9/adib.png",
+          "sell": 21.976,
+          "buy": 20.536
+        },
+        {
+          "arBankName": "بنك البركة",
+          "enBankName": "Al Baraka Bank",
+          "shortName" : "Baraka",
+          "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
+          "sell": 21.208,
+          "buy": 20.041
+        },
+        {
+          "arBankName": "بنك فيصل الإسلامي المصري",
+          "enBankName": "Faisal Islamic Bank of Egypt",
+          "shortName" : "FIBE",
+          "logo": "https://s26.postimg.org/mu13z822h/fisl.png",
+          "sell": 21.606,
+          "buy": 20.127
+        },
+        {
+          "arBankName": "المصرف المتحد",
+          "enBankName": "The United Bank of Egypt",
+          "shortName" : "The UBE",
+          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
+          "sell": 21.919,
+          "buy": 19.808
+        },
+        {
+          "arBankName": "البنك الأهلي الكويتي - بيريوس",
+          "enBankName": "Al Ahli Bank of Kuwait",
+          "shortName" : "ABK",
+          "logo": "https://s26.postimg.org/mu13z822h/fisl.png",
+          "sell": 21.919,
+          "buy": 20.740
+        },
+        {
+          "arBankName": "بنك مصر إيران للتنمية",
+          "enBankName": "Misr Iran Development Bank ",
+          "shortName" : "MIDB",
+          "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
+          "sell": 21.142,
+          "buy": 20.089
         }
       ]
     },
@@ -175,28 +278,132 @@
       "logo": "https://s26.postimg.org/uindxc8zd/image.png",
       "exRates": [
         {
+          "arBankName": "البنك المركزي المصري",
+          "enBankName": "Central Banck of  Egypt",
+          "shortName" : "CBE",
+          "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
+          "sell": 19.066,
+          "buy": 18.131
+        },
+        {
+          "arBankName": "بنك الأسكندرية",
+          "enBankName": "Bank of Alexanderia",
+          "shortName" : "ALEX Bank",
+          "logo": "https://s26.postimg.org/u226awl89/alex.png",
+          "sell": 18.921,
+          "buy": 17.940
+        },
+        {
           "arBankName": "البنك التجاري الدولي",
           "enBankName": "Commerce International Bank",
           "shortName" : "CIB",
           "logo": "https://s26.postimg.org/ezuzxc709/cib.png",
-          "sell": 17.88,
-          "buy": 18.00
-        },
-        {
-          "arBankName": "بنك قطر الوطني - الأهلي",
-          "enBankName": "Qatar National Bank - Al Ahli",
-          "shortName" : "QNB",
-          "logo": "https://s26.postimg.org/vu072xawp/qnb.png",
-          "sell": 17.92,
-          "buy": 18.05
+          "sell": 18.820,
+          "buy": 18.193
         },
         {
           "arBankName": "البنك الأهلي المصري",
           "enBankName": "National Bank of Egypt",
           "shortName" : "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
-          "sell": 17.68,
-          "buy": 17.93
+          "sell": 19.210,
+          "buy": 17.950
+        },
+        {
+          "arBankName": "بنك مصر",
+          "enBankName": "Banque Misr",
+          "shortName" : "Banque Misr",
+          "logo": "https://s26.postimg.org/5crhnme0p/image.png",
+          "sell": 19.200,
+          "buy": 18.226
+        },
+        {
+          "arBankName": "بنك قناة السويس",
+          "enBankName": "Suez Canal Bank",
+          "shortName" : "SCB",
+          "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
+          "sell": 18.931,
+          "buy": 17.648
+        },
+        {
+          "arBankName": "بنك الإسكان والتعمير",
+          "enBankName": "Housing and Development Bank",
+          "shortName" : "HDB",
+          "logo": "https://s26.postimg.org/m5s9ga3cp/hdb.png",
+          "sell": 19.208,
+          "buy": 17.901
+        },
+        {
+          "arBankName": "البنك المصري الخليجي",
+          "enBankName": "Egyptian Gulf Bank",
+          "shortName" : "EG Bank",
+          "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
+          "sell": 19.497,
+          "buy": 18.216
+        },
+        {
+          "arBankName": "بنك بلوم",
+          "enBankName": "Blom Bank Egypt",
+          "shortName" : "Blom",
+          "logo": "https://s26.postimg.org/uhii11dh5/bloom.png",
+          "sell": 19.209,
+          "buy": 17.949
+        },
+        {
+          "arBankName": "كريدي أجريكول",
+          "enBankName": "Credit Agricole",
+          "shortName" : "SCB",
+          "logo": "https://s26.postimg.org/py69fivll/image.png",
+          "sell": 19.488,
+          "buy": 18.502
+        },
+        {
+          "arBankName": "مصرف أبوظبي الإسلامي",
+          "enBankName": "Abu Dhabi Islamic Bank",
+          "shortName" : "ADIB",
+          "logo": "https://s26.postimg.org/bdup16nw9/adib.png",
+          "sell": 19.500,
+          "buy": 18.318
+        },
+        {
+          "arBankName": "بنك البركة",
+          "enBankName": "Al Baraka Bank",
+          "shortName" : "Baraka",
+          "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
+          "sell": 18.900,
+          "buy": 18.140
+        },
+        {
+          "arBankName": "بنك فيصل الإسلامي المصري",
+          "enBankName": "Faisal Islamic Bank of Egypt",
+          "shortName" : "FIBE",
+          "logo": "https://s26.postimg.org/mu13z822h/fisl.png",
+          "sell": 19.210,
+          "buy": 17.950
+        },
+        {
+          "arBankName": "المصرف المتحد",
+          "enBankName": "The United Bank of Egypt",
+          "shortName" : "The UBE",
+          "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
+          "sell": 19.488,
+          "buy": 17.645
+        },
+        {
+          "arBankName": "البنك الأهلي الكويتي - بيريوس",
+          "enBankName": "Al Ahli Bank of Kuwait",
+          "shortName" : "ABK",
+          "logo": "https://s26.postimg.org/bpc5dy4c9/abk.png",
+          "sell": 19.488,
+          "buy": 18.502
+        },
+        {
+          "arBankName": "بنك مصر إيران للتنمية",
+          "enBankName": "Misr Iran Development Bank ",
+          "shortName" : "MIDB",
+          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
+          "sell": 18.884,
+          "buy": 17.943
         }
       ]
     },
@@ -207,28 +414,132 @@
       "logo": "https://s26.postimg.org/z1v1541h5/image.png",
       "exRates": [
         {
+          "arBankName": "البنك المركزي المصري",
+          "enBankName": "Central Banck of  Egypt",
+          "shortName" : "CBE",
+          "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
+          "sell": 19.066,
+          "buy": 18.131
+        },
+        {
+          "arBankName": "بنك الأسكندرية",
+          "enBankName": "Bank of Alexanderia",
+          "shortName" : "ALEX Bank",
+          "logo": "https://s26.postimg.org/u226awl89/alex.png",
+          "sell": 18.921,
+          "buy": 17.940
+        },
+        {
           "arBankName": "البنك التجاري الدولي",
           "enBankName": "Commerce International Bank",
           "shortName" : "CIB",
           "logo": "https://s26.postimg.org/ezuzxc709/cib.png",
-          "sell": 14.88,
-          "buy": 15.00
-        },
-        {
-          "arBankName": "بنك قطر الوطني - الأهلي",
-          "enBankName": "Qatar National Bank - Al Ahli",
-          "shortName" : "QNB",
-          "logo": "https://s26.postimg.org/vu072xawp/qnb.png",
-          "sell": 14.92,
-          "buy": 15.05
+          "sell": 18.820,
+          "buy": 18.193
         },
         {
           "arBankName": "البنك الأهلي المصري",
           "enBankName": "National Bank of Egypt",
           "shortName" : "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
-          "sell": 14.68,
-          "buy": 15.93
+          "sell": 19.210,
+          "buy": 17.950
+        },
+        {
+          "arBankName": "بنك مصر",
+          "enBankName": "Banque Misr",
+          "shortName" : "Banque Misr",
+          "logo": "https://s26.postimg.org/5crhnme0p/image.png",
+          "sell": 19.200,
+          "buy": 18.226
+        },
+        {
+          "arBankName": "بنك قناة السويس",
+          "enBankName": "Suez Canal Bank",
+          "shortName" : "SCB",
+          "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
+          "sell": 18.931,
+          "buy": 17.648
+        },
+        {
+          "arBankName": "بنك الإسكان والتعمير",
+          "enBankName": "Housing and Development Bank",
+          "shortName" : "HDB",
+          "logo": "https://s26.postimg.org/m5s9ga3cp/hdb.png",
+          "sell": 19.208,
+          "buy": 17.901
+        },
+        {
+          "arBankName": "البنك المصري الخليجي",
+          "enBankName": "Egyptian Gulf Bank",
+          "shortName" : "EG Bank",
+          "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
+          "sell": 19.497,
+          "buy": 18.216
+        },
+        {
+          "arBankName": "بنك بلوم",
+          "enBankName": "Blom Bank Egypt",
+          "shortName" : "Blom",
+          "logo": "https://s26.postimg.org/uhii11dh5/bloom.png",
+          "sell": 19.209,
+          "buy": 17.949
+        },
+        {
+          "arBankName": "كريدي أجريكول",
+          "enBankName": "Credit Agricole",
+          "shortName" : "SCB",
+          "logo": "https://s26.postimg.org/py69fivll/image.png",
+          "sell": 19.488,
+          "buy": 18.502
+        },
+        {
+          "arBankName": "مصرف أبوظبي الإسلامي",
+          "enBankName": "Abu Dhabi Islamic Bank",
+          "shortName" : "ADIB",
+          "logo": "https://s26.postimg.org/bdup16nw9/adib.png",
+          "sell": 19.500,
+          "buy": 18.318
+        },
+        {
+          "arBankName": "بنك البركة",
+          "enBankName": "Al Baraka Bank",
+          "shortName" : "Baraka",
+          "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
+          "sell": 18.900,
+          "buy": 18.140
+        },
+        {
+          "arBankName": "بنك فيصل الإسلامي المصري",
+          "enBankName": "Faisal Islamic Bank of Egypt",
+          "shortName" : "FIBE",
+          "logo": "https://s26.postimg.org/mu13z822h/fisl.png",
+          "sell": 19.210,
+          "buy": 17.950
+        },
+        {
+          "arBankName": "المصرف المتحد",
+          "enBankName": "The United Bank of Egypt",
+          "shortName" : "The UBE",
+          "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
+          "sell": 19.488,
+          "buy": 17.645
+        },
+        {
+          "arBankName": "البنك الأهلي الكويتي - بيريوس",
+          "enBankName": "Al Ahli Bank of Kuwait",
+          "shortName" : "ABK",
+          "logo": "https://s26.postimg.org/bpc5dy4c9/abk.png",
+          "sell": 19.488,
+          "buy": 18.502
+        },
+        {
+          "arBankName": "بنك مصر إيران للتنمية",
+          "enBankName": "Misr Iran Development Bank ",
+          "shortName" : "MIDB",
+          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
+          "sell": 18.884,
+          "buy": 17.943
         }
       ]
     },
