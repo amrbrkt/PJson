@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-11-2016, 11:25",
+  "lastUpdate": "09-11-2016, 15:30",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -12,8 +12,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 17.843,
-          "buy": 17.417
+          "sell": 17.6330,
+          "buy": 17.0422	
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -64,12 +64,12 @@
           "buy": 17.75
         },
         {
-          "arBankName": "بنك بلوم",
-          "enBankName": "Bloom Bank",
-          "shortName": "Bloom",
+          "arBankName": "بنك بلوم مصر",
+          "enBankName": "Blom Bank - Egypt",
+          "shortName": "BBE",
           "logo": "https://s26.postimg.org/uhii11dh5/bloom.png",
-          "sell": 17.85,
-          "buy": 17.4
+          "sell": 17.8500,
+          "buy": 17.1500
         },
         {
           "arBankName": "كريدي أجريكول",
@@ -132,8 +132,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 19.704,
-          "buy": 19.23
+          "sell": 19.5550,
+          "buy": 18.8981
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -184,12 +184,12 @@
           "buy": 19.573
         },
         {
-          "arBankName": "بنك بلوم",
-          "enBankName": "Bloom Bank",
-          "shortName": "Bloom",
+          "arBankName": "بنك بلوم مصر",
+          "enBankName": "Blom Bank - Egypt",
+          "shortName": "BBE",
           "logo": "https://s26.postimg.org/uhii11dh5/bloom.png",
-          "sell": 19.755,
-          "buy": 19.192
+          "sell": 20.1687,
+          "buy": 18.8496
         },
         {
           "arBankName": "كريدي أجريكول",
@@ -252,8 +252,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 22.145,
-          "buy": 21.606
+          "sell": 21.9460,
+          "buy": 21.2039
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -304,12 +304,12 @@
           "buy": 21.973
         },
         {
-          "arBankName": "بنك بلوم",
-          "enBankName": "Bloom Bank",
-          "shortName": "Bloom",
+          "arBankName": "بنك بلوم مصر",
+          "enBankName": "Blom Bank - Egypt",
+          "shortName": "BBE",
           "logo": "https://s26.postimg.org/uhii11dh5/bloom.png",
-          "sell": 22.205,
-          "buy": 21.552
+          "sell": 22.3964,
+          "buy": 21.1888
         },
         {
           "arBankName": "كريدي أجريكول",
@@ -372,8 +372,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 18.278,
-          "buy": 17.836
+          "sell": 18.1111,
+          "buy": 17.4899
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -424,12 +424,12 @@
           "buy": 18.153
         },
         {
-          "arBankName": "بنك بلوم",
-          "enBankName": "Bloom Bank",
-          "shortName": "Bloom",
+          "arBankName": "بنك بلوم مصر",
+          "enBankName": "Blom Bank - Egypt",
+          "shortName": "BBE",
           "logo": "https://s26.postimg.org/uhii11dh5/bloom.png",
-          "sell": 18.338,
-          "buy": 19.821
+          "sell": 18.6891,
+          "buy": 17.4377
         },
         {
           "arBankName": "كريدي أجريكول",
@@ -492,8 +492,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 17.15027,
-          "buy": 16.26209
+          "sell": 17.0879,
+          "buy": 16.5137
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -544,12 +544,12 @@
           "buy": 16.93
         },
         {
-          "arBankName": "بنك بلوم",
-          "enBankName": "Bloom Bank",
-          "shortName": "Bloom",
+          "arBankName": "بنك بلوم مصر",
+          "enBankName": "Blom Bank - Egypt",
+          "shortName": "BBE",
           "logo": "https://s26.postimg.org/uhii11dh5/bloom.png",
-          "sell": 17.114,
-          "buy": 16.617
+          "sell": 17.6383,
+          "buy": 16.2627
         },
         {
           "arBankName": "كريدي أجريكول",
@@ -612,8 +612,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 4.758,
-          "buy": 4.644
+          "sell": 4.7017,
+          "buy": 4.5437
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -664,12 +664,12 @@
           "buy": 4.73
         },
         {
-          "arBankName": "بنك بلوم",
-          "enBankName": "Bloom Bank",
-          "shortName": "Bloom",
+          "arBankName": "بنك بلوم مصر",
+          "enBankName": "Blom Bank - Egypt",
+          "shortName": "BBE",
           "logo": "https://s26.postimg.org/uhii11dh5/bloom.png",
-          "sell": 4.759,
-          "buy": 4.639
+          "sell": 4.7594,
+          "buy": 4.5724
         },
         {
           "arBankName": "كريدي أجريكول",
@@ -732,8 +732,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 4.858,
-          "buy": 4.741
+          "sell": 4.8007,
+          "buy": 4.6397
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -784,12 +784,12 @@
           "buy": 4.832
         },
         {
-          "arBankName": "بنك بلوم",
-          "enBankName": "Bloom Bank",
-          "shortName": "Bloom",
+          "arBankName": "بنك بلوم مصر",
+          "enBankName": "Blom Bank - Egypt",
+          "shortName": "BBE",
           "logo": "https://s26.postimg.org/uhii11dh5/bloom.png",
-          "sell": 4.86,
-          "buy": 4.737
+          "sell": 4.8598,
+          "buy": 4.6692
         },
         {
           "arBankName": "كريدي أجريكول",
@@ -852,8 +852,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 57.58642,
-          "buy": 56.32571
+          "sell": 58.3583,
+          "buy": 56.2912
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -904,12 +904,12 @@
           "buy": 58.523
         },
         {
-          "arBankName": "بنك بلوم",
-          "enBankName": "Bloom Bank",
-          "shortName": "Bloom",
+          "arBankName": "بنك بلوم مصر",
+          "enBankName": "Blom Bank - Egypt",
+          "shortName": "BBE",
           "logo": "https://s26.postimg.org/uhii11dh5/bloom.png",
-          "sell": 58.979,
-          "buy": 57.388
+          "sell": 59.1451,
+          "buy": 52.6074
         },
         {
           "arBankName": "كريدي أجريكول",
