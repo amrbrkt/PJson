@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-11-2016, 10:15",
+  "lastUpdate": "09-11-2016, 11:25",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -20,8 +20,8 @@
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
-          "sell": 17.85,
-          "buy": 17.75
+          "sell": 17.35000,
+          "buy": 17.15000 
         },
         {
           "arBankName": "البنك التجاري الدولي",
@@ -140,8 +140,8 @@
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
-          "sell": 19.765,
-          "buy": 19.578
+          "sell": 19.61377,
+          "buy": 18.84957
         },
         {
           "arBankName": "البنك التجاري الدولي",
@@ -260,8 +260,8 @@
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
-          "sell": 22.215,
-          "buy": 21.978
+          "sell": 21.77905,
+          "buy": 21.18883	
         },
         {
           "arBankName": "البنك التجاري الدولي",
@@ -380,8 +380,8 @@
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
-          "sell": 18.341,
-          "buy": 18.164
+          "sell": 18.16864,
+          "buy": 17.43772
         },
         {
           "arBankName": "البنك التجاري الدولي",
@@ -492,8 +492,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 17.034,
-          "buy": 16.621
+          "sell": 17.15027,
+          "buy": 16.26209
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -620,8 +620,8 @@
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
-          "sell": 4.764,
-          "buy": 4.733
+          "sell": 4.63043,
+          "buy": 4.57272
         },
         {
           "arBankName": "البنك التجاري الدولي",
@@ -740,8 +740,8 @@
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
-          "sell": 4.865,
-          "buy": 4.813
+          "sell": 4.72866,
+          "buy": 4.64921
         },
         {
           "arBankName": "البنك التجاري الدولي",
@@ -852,8 +852,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 58.848,
-          "buy": 57.425
+          "sell": 57.58642,
+          "buy": 56.32571
         },
         {
           "arBankName": "بنك الإسكندرية",
