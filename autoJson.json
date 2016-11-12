@@ -412,8 +412,8 @@
           "enBankName": "Suez Canal Bank",
           "shortName": "SCB",
           "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
-          "sell": 0,
-          "buy": 0
+          "sell": 16.5378,
+          "buy": 15.4118
         },
         {
           "arBankName": "البنك المصري الخليجي",
@@ -796,8 +796,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 56.161,
-          "buy": 52.718
+          "sell": 4.628,
+          "buy": 4.356
         },
         {
           "arBankName": "مصرف أبوظبي الإسلامي",
@@ -916,8 +916,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 4.628,
-          "buy": 4.356
+          "sell": 56.161,
+          "buy": 52.718
         },
         {
           "arBankName": "مصرف أبوظبي الإسلامي",
