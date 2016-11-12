@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-11-2016, 13:45",
+  "lastUpdate": "12-11-2016, 16:56",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -12,8 +12,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 17.633,
-          "buy": 17.042
+          "sell": 17.074,
+          "buy": 16.422
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -28,8 +28,8 @@
           "enBankName": "Commerce International Bank",
           "shortName": "CIB",
           "logo": "https://s26.postimg.org/ezuzxc709/cib.png",
-          "sell": 16.25,
-          "buy": 16
+          "sell": 16.05,
+          "buy": 15.9
         },
         {
           "arBankName": "البنك الأهلي المصري",
@@ -132,8 +132,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 19.555,
-          "buy": 18.898
+          "sell": 18.617,
+          "buy": 17.905
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -148,8 +148,8 @@
           "enBankName": "Commerce International Bank",
           "shortName": "CIB",
           "logo": "https://s26.postimg.org/ezuzxc709/cib.png",
-          "sell": 17.742,
-          "buy": 17.299
+          "sell": 17.523,
+          "buy": 17.19
         },
         {
           "arBankName": "البنك الأهلي المصري",
@@ -252,8 +252,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 21.946,
-          "buy": 21.204
+          "sell": 21.199,
+          "buy": 20.384
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -268,8 +268,8 @@
           "enBankName": "Commerce International Bank",
           "shortName": "CIB",
           "logo": "https://s26.postimg.org/ezuzxc709/cib.png",
-          "sell": 20.545,
-          "buy": 20.061
+          "sell": 20.292,
+          "buy": 19.936
         },
         {
           "arBankName": "البنك الأهلي المصري",
@@ -372,8 +372,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 18.111,
-          "buy": 17.49
+          "sell": 17.307,
+          "buy": 16.63
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -388,8 +388,8 @@
           "enBankName": "Commerce International Bank",
           "shortName": "CIB",
           "logo": "https://s26.postimg.org/ezuzxc709/cib.png",
-          "sell": 16.521,
-          "buy": 16.144
+          "sell": 16.318,
+          "buy": 16.043
         },
         {
           "arBankName": "البنك الأهلي المصري",
@@ -412,8 +412,8 @@
           "enBankName": "Suez Canal Bank",
           "shortName": "SCB",
           "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
-          "sell": 16.5378,
-          "buy": 15.4118
+          "sell": 15.412,
+          "buy": 15.412
         },
         {
           "arBankName": "البنك المصري الخليجي",
@@ -492,8 +492,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 17.088,
-          "buy": 16.514
+          "sell": 15.99,
+          "buy": 15.374
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -612,8 +612,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 4.702,
-          "buy": 4.544
+          "sell": 4.553,
+          "buy": 4.378
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -628,8 +628,8 @@
           "enBankName": "Commerce International Bank",
           "shortName": "CIB",
           "logo": "https://s26.postimg.org/ezuzxc709/cib.png",
-          "sell": 4.334,
-          "buy": 4.259
+          "sell": 4.281,
+          "buy": 4.233
         },
         {
           "arBankName": "البنك الأهلي المصري",
@@ -732,8 +732,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 4.801,
-          "buy": 4.64
+          "sell": 4.649,
+          "buy": 4.47
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -852,8 +852,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 58.358,
-          "buy": 56.291
+          "sell": 56.331,
+          "buy": 54.075
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -868,8 +868,8 @@
           "enBankName": "Commerce International Bank",
           "shortName": "CIB",
           "logo": "https://s26.postimg.org/ezuzxc709/cib.png",
-          "sell": 53.662,
-          "buy": 52.536
+          "sell": 53.002,
+          "buy": 52.207
         },
         {
           "arBankName": "البنك الأهلي المصري",
