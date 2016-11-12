@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-11-2016, 18:33",
+  "lastUpdate": "12-11-2016, 18:37",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -148,8 +148,8 @@
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
-          "sell": 15.5,
-          "buy": 16.5
+          "sell": 16.5,
+          "buy": 15.5
         }
       ]
     },
@@ -300,8 +300,8 @@
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
-          "sell": 16.784,
-          "buy": 17.974
+          "sell": 17.974,
+          "buy": 16.784
         }
       ]
     },
@@ -452,8 +452,8 @@
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
-          "sell": 19.489,
-          "buy": 20.872
+          "sell": 20.872,
+          "buy": 19.489
         }
       ]
     },
@@ -604,8 +604,8 @@
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
-          "sell": 15.657,
-          "buy": 16.767
+          "sell": 16.767,
+          "buy": 15.657
         }
       ]
     },
@@ -756,8 +756,8 @@
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
-          "sell": 14.502,
-          "buy": 15.53
+          "sell": 15.53,
+          "buy": 14.502
         }
       ]
     },
@@ -908,8 +908,8 @@
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
-          "sell": 4.052,
-          "buy": 4.419
+          "sell": 4.419,
+          "buy": 4.052
         }
       ]
     },
@@ -1060,8 +1060,8 @@
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
-          "sell": 4.136,
-          "buy": 4.511
+          "sell": 4.511,
+          "buy": 4.136
         }
       ]
     },
