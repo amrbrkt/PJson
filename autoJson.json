@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-11-2016, 12:32",
+  "lastUpdate": "12-11-2016, 13:45",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -76,8 +76,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 16.95,
-          "buy": 17.95
+          "sell": 17,
+          "buy": 16
         },
         {
           "arBankName": "مصرف أبوظبي الإسلامي",
@@ -196,8 +196,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 19.662,
-          "buy": 18.489
+          "sell": 18.622,
+          "buy": 17.384
         },
         {
           "arBankName": "مصرف أبوظبي الإسلامي",
@@ -316,8 +316,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 22.333,
-          "buy": 21.013
+          "sell": 21.32,
+          "buy": 19.805
         },
         {
           "arBankName": "مصرف أبوظبي الإسلامي",
@@ -436,8 +436,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 18.275,
-          "buy": 17.187
+          "sell": 17.308,
+          "buy": 16.168
         },
         {
           "arBankName": "مصرف أبوظبي الإسلامي",
@@ -556,8 +556,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 17.097,
-          "buy": 15.998
+          "sell": 16.192,
+          "buy": 14.962
         },
         {
           "arBankName": "مصرف أبوظبي الإسلامي",
@@ -676,8 +676,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 4.786,
-          "buy": 4.519
+          "sell": 4.533,
+          "buy": 4.266
         },
         {
           "arBankName": "مصرف أبوظبي الإسلامي",
@@ -796,8 +796,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 4.887,
-          "buy": 4.615
+          "sell": 56.161,
+          "buy": 52.718
         },
         {
           "arBankName": "مصرف أبوظبي الإسلامي",
@@ -916,8 +916,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 59.3,
-          "buy": 55.968
+          "sell": 4.628,
+          "buy": 4.356
         },
         {
           "arBankName": "مصرف أبوظبي الإسلامي",
