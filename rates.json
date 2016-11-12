@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-11-2016, 18:04",
+  "lastUpdate": "12-11-2016, 18:20",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -20,8 +20,8 @@
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
-          "sell": 16.75,
-          "buy": 15.95
+          "sell": 16.2,
+          "buy": 15.9
         },
         {
           "arBankName": "البنك التجاري الدولي",
@@ -36,8 +36,8 @@
           "enBankName": "National Bank of Egypt",
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
-          "sell": 16.25,
-          "buy": 16
+          "sell": 16.05,
+          "buy": 15.9
         },
         {
           "arBankName": "بنك مصر",
@@ -136,6 +136,14 @@
           "buy": 16.25
         },
         {
+          "arBankName": "المصرف المتحد - مصر",
+          "enBankName": "The United Bank - Egypt",
+          "shortName": "UBE",
+          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
+          "sell": 16.05,
+          "buy": 15.9
+        },
+        {
           "arBankName": "بنك مصر إيران للتنمية",
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
@@ -164,8 +172,8 @@
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
-          "sell": 18.306,
-          "buy": 17.314
+          "sell": 17.695,
+          "buy": 17.23
         },
         {
           "arBankName": "البنك التجاري الدولي",
@@ -180,8 +188,8 @@
           "enBankName": "National Bank of Egypt",
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
-          "sell": 17.75,
-          "buy": 17.33
+          "sell": 17.531,
+          "buy": 17.221
         },
         {
           "arBankName": "بنك مصر",
@@ -280,6 +288,14 @@
           "buy": 17.639
         },
         {
+          "arBankName": "المصرف المتحد - مصر",
+          "enBankName": "The United Bank - Egypt",
+          "shortName": "UBE",
+          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
+          "sell": 17.384,
+          "buy": 17.221
+        },
+        {
           "arBankName": "بنك مصر إيران للتنمية",
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
@@ -308,8 +324,8 @@
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
-          "sell": 21.237,
-          "buy": 19.981
+          "sell": 20.53,
+          "buy": 19.928
         },
         {
           "arBankName": "البنك التجاري الدولي",
@@ -324,8 +340,8 @@
           "enBankName": "National Bank of Egypt",
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
-          "sell": 20.594,
-          "buy": 20.043
+          "sell": 20.34,
+          "buy": 19.918
         },
         {
           "arBankName": "بنك مصر",
@@ -424,6 +440,14 @@
           "buy": 20.356
         },
         {
+          "arBankName": "المصرف المتحد - مصر",
+          "enBankName": "The United Bank - Egypt",
+          "shortName": "UBE",
+          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
+          "sell": 20.106,
+          "buy": 19.918
+        },
+        {
           "arBankName": "بنك مصر إيران للتنمية",
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
@@ -452,8 +476,8 @@
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
-          "sell": 17.041,
-          "buy": 16.132
+          "sell": 16.478,
+          "buy": 16.077
         },
         {
           "arBankName": "البنك التجاري الدولي",
@@ -468,8 +492,8 @@
           "enBankName": "National Bank of Egypt",
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
-          "sell": 16.529,
-          "buy": 16.17
+          "sell": 16.326,
+          "buy": 16.069
         },
         {
           "arBankName": "بنك مصر",
@@ -492,8 +516,8 @@
           "enBankName": "Suez Canal Bank",
           "shortName": "SCB",
           "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
-          "sell": 15.412,
-          "buy": 15.412
+          "sell": 16.538,
+          "buy": 16.538
         },
         {
           "arBankName": "بنك التعمير والإسكان",
@@ -568,6 +592,14 @@
           "buy": 16.436
         },
         {
+          "arBankName": "المصرف المتحد - مصر",
+          "enBankName": "The United Bank - Egypt",
+          "shortName": "UBE",
+          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
+          "sell": 0,
+          "buy": 0
+        },
+        {
           "arBankName": "بنك مصر إيران للتنمية",
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
@@ -596,8 +628,8 @@
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
-          "sell": 15.802,
-          "buy": 14.916
+          "sell": 15.277,
+          "buy": 14.877
         },
         {
           "arBankName": "البنك التجاري الدولي",
@@ -612,8 +644,8 @@
           "enBankName": "National Bank of Egypt",
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
-          "sell": 15.324,
-          "buy": 14.963
+          "sell": 15.136,
+          "buy": 14.87
         },
         {
           "arBankName": "بنك مصر",
@@ -712,6 +744,14 @@
           "buy": 0
         },
         {
+          "arBankName": "المصرف المتحد - مصر",
+          "enBankName": "The United Bank - Egypt",
+          "shortName": "UBE",
+          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
+          "sell": 0,
+          "buy": 0
+        },
+        {
           "arBankName": "بنك مصر إيران للتنمية",
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
@@ -740,8 +780,8 @@
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
-          "sell": 4.471,
-          "buy": 4.253
+          "sell": 4.319,
+          "buy": 4.239
         },
         {
           "arBankName": "البنك التجاري الدولي",
@@ -756,8 +796,8 @@
           "enBankName": "National Bank of Egypt",
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
-          "sell": 4.333,
-          "buy": 4.266
+          "sell": 4.279,
+          "buy": 4.239
         },
         {
           "arBankName": "بنك مصر",
@@ -856,6 +896,14 @@
           "buy": 4.333
         },
         {
+          "arBankName": "المصرف المتحد - مصر",
+          "enBankName": "The United Bank - Egypt",
+          "shortName": "UBE",
+          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
+          "sell": 4.279,
+          "buy": 4.218
+        },
+        {
           "arBankName": "بنك مصر إيران للتنمية",
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
@@ -884,8 +932,8 @@
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
-          "sell": 4.565,
-          "buy": 4.322
+          "sell": 4.411,
+          "buy": 4.328
         },
         {
           "arBankName": "البنك التجاري الدولي",
@@ -900,8 +948,8 @@
           "enBankName": "National Bank of Egypt",
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
-          "sell": 4.424,
-          "buy": 4.356
+          "sell": 4.37,
+          "buy": 4.329
         },
         {
           "arBankName": "بنك مصر",
@@ -1000,6 +1048,14 @@
           "buy": 0
         },
         {
+          "arBankName": "المصرف المتحد - مصر",
+          "enBankName": "The United Bank - Egypt",
+          "shortName": "UBE",
+          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
+          "sell": 4.37,
+          "buy": 4.328
+        },
+        {
           "arBankName": "بنك مصر إيران للتنمية",
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
@@ -1028,8 +1084,8 @@
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
-          "sell": 55.512,
-          "buy": 52.192
+          "sell": 53.518,
+          "buy": 52.365
         },
         {
           "arBankName": "البنك التجاري الدولي",
@@ -1044,8 +1100,8 @@
           "enBankName": "National Bank of Egypt",
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
-          "sell": 53.684,
-          "buy": 52.77
+          "sell": 53.023,
+          "buy": 52.371
         },
         {
           "arBankName": "بنك مصر",
@@ -1142,6 +1198,14 @@
           "logo": "https://s26.postimg.org/tulfh0cc9/saib.png",
           "sell": 56.987,
           "buy": 53.613
+        },
+        {
+          "arBankName": "المصرف المتحد - مصر",
+          "enBankName": "The United Bank - Egypt",
+          "shortName": "UBE",
+          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
+          "sell": 53.023,
+          "buy": 52.441
         },
         {
           "arBankName": "بنك مصر إيران للتنمية",
