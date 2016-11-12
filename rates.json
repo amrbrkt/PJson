@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-11-2016, 17:53",
+  "lastUpdate": "12-11-2016, 18:04",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -46,6 +46,14 @@
           "logo": "https://s26.postimg.org/5crhnme0p/image.png",
           "sell": 16.25,
           "buy": 16
+        },
+        {
+          "arBankName": "بنك القاهرة",
+          "enBankName": "Banque du Caire",
+          "shortName": "BC",
+          "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
+          "sell": 16.25,
+          "buy": 15.5
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -120,14 +128,6 @@
           "buy": 15.75
         },
         {
-          "arBankName": "بنك القاهرة",
-          "enBankName": "Banque du Baire",
-          "shortName": "BC",
-          "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
-          "sell": 16.25,
-          "buy": 15.5
-        },
-        {
           "arBankName": "بنك الشركة المصرفية العربية الدولية",
           "enBankName": "Société Arabe Internationale de Banque",
           "shortName": "SAIB",
@@ -136,8 +136,8 @@
           "buy": 16.25
         },
         {
-          "arBankName": "بنك الشركة المصرفية العربية الدولية",
-          "enBankName": "Société Arabe Internationale de Banque",
+          "arBankName": "بنك مصر إيران للتنمية",
+          "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
           "sell": 15.5,
@@ -190,6 +190,14 @@
           "logo": "https://s26.postimg.org/5crhnme0p/image.png",
           "sell": 17.741,
           "buy": 17.33
+        },
+        {
+          "arBankName": "بنك القاهرة",
+          "enBankName": "Banque du Caire",
+          "shortName": "BC",
+          "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
+          "sell": 17.75,
+          "buy": 16.782
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -264,14 +272,6 @@
           "buy": 17.089
         },
         {
-          "arBankName": "بنك القاهرة",
-          "enBankName": "Banque du Baire",
-          "shortName": "BC",
-          "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
-          "sell": 17.75,
-          "buy": 16.782
-        },
-        {
           "arBankName": "بنك الشركة المصرفية العربية الدولية",
           "enBankName": "Société Arabe Internationale de Banque",
           "shortName": "SAIB",
@@ -280,8 +280,8 @@
           "buy": 17.639
         },
         {
-          "arBankName": "بنك الشركة المصرفية العربية الدولية",
-          "enBankName": "Société Arabe Internationale de Banque",
+          "arBankName": "بنك مصر إيران للتنمية",
+          "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
           "sell": 16.784,
@@ -334,6 +334,14 @@
           "logo": "https://s26.postimg.org/5crhnme0p/image.png",
           "sell": 20.583,
           "buy": 20.043
+        },
+        {
+          "arBankName": "بنك القاهرة",
+          "enBankName": "Banque du Caire",
+          "shortName": "BC",
+          "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
+          "sell": 20.594,
+          "buy": 19.408
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -408,14 +416,6 @@
           "buy": 19.843
         },
         {
-          "arBankName": "بنك القاهرة",
-          "enBankName": "Banque du Baire",
-          "shortName": "BC",
-          "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
-          "sell": 20.594,
-          "buy": 19.408
-        },
-        {
           "arBankName": "بنك الشركة المصرفية العربية الدولية",
           "enBankName": "Société Arabe Internationale de Banque",
           "shortName": "SAIB",
@@ -424,8 +424,8 @@
           "buy": 20.356
         },
         {
-          "arBankName": "بنك الشركة المصرفية العربية الدولية",
-          "enBankName": "Société Arabe Internationale de Banque",
+          "arBankName": "بنك مصر إيران للتنمية",
+          "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
           "sell": 19.489,
@@ -478,6 +478,14 @@
           "logo": "https://s26.postimg.org/5crhnme0p/image.png",
           "sell": 16.521,
           "buy": 16.17
+        },
+        {
+          "arBankName": "بنك القاهرة",
+          "enBankName": "Banque du Caire",
+          "shortName": "BC",
+          "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
+          "sell": 16.538,
+          "buy": 15.665
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -552,14 +560,6 @@
           "buy": 15.925
         },
         {
-          "arBankName": "بنك القاهرة",
-          "enBankName": "Banque du Baire",
-          "shortName": "BC",
-          "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
-          "sell": 16.538,
-          "buy": 15.665
-        },
-        {
           "arBankName": "بنك الشركة المصرفية العربية الدولية",
           "enBankName": "Société Arabe Internationale de Banque",
           "shortName": "SAIB",
@@ -568,8 +568,8 @@
           "buy": 16.436
         },
         {
-          "arBankName": "بنك الشركة المصرفية العربية الدولية",
-          "enBankName": "Société Arabe Internationale de Banque",
+          "arBankName": "بنك مصر إيران للتنمية",
+          "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
           "sell": 15.657,
@@ -622,6 +622,14 @@
           "logo": "https://s26.postimg.org/5crhnme0p/image.png",
           "sell": 15.317,
           "buy": 14.963
+        },
+        {
+          "arBankName": "بنك القاهرة",
+          "enBankName": "Banque du Caire",
+          "shortName": "BC",
+          "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
+          "sell": 15.33,
+          "buy": 14.495
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -696,14 +704,6 @@
           "buy": 14.76
         },
         {
-          "arBankName": "بنك القاهرة",
-          "enBankName": "Banque du Baire",
-          "shortName": "BC",
-          "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
-          "sell": 15.33,
-          "buy": 14.495
-        },
-        {
           "arBankName": "بنك الشركة المصرفية العربية الدولية",
           "enBankName": "Société Arabe Internationale de Banque",
           "shortName": "SAIB",
@@ -712,8 +712,8 @@
           "buy": 0
         },
         {
-          "arBankName": "بنك الشركة المصرفية العربية الدولية",
-          "enBankName": "Société Arabe Internationale de Banque",
+          "arBankName": "بنك مصر إيران للتنمية",
+          "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
           "sell": 14.502,
@@ -766,6 +766,14 @@
           "logo": "https://s26.postimg.org/5crhnme0p/image.png",
           "sell": 4.331,
           "buy": 4.266
+        },
+        {
+          "arBankName": "بنك القاهرة",
+          "enBankName": "Banque du Caire",
+          "shortName": "BC",
+          "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
+          "sell": 4.335,
+          "buy": 4.09
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -840,14 +848,6 @@
           "buy": 4.201
         },
         {
-          "arBankName": "بنك القاهرة",
-          "enBankName": "Banque du Baire",
-          "shortName": "BC",
-          "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
-          "sell": 4.335,
-          "buy": 4.09
-        },
-        {
           "arBankName": "بنك الشركة المصرفية العربية الدولية",
           "enBankName": "Société Arabe Internationale de Banque",
           "shortName": "SAIB",
@@ -856,8 +856,8 @@
           "buy": 4.333
         },
         {
-          "arBankName": "بنك الشركة المصرفية العربية الدولية",
-          "enBankName": "Société Arabe Internationale de Banque",
+          "arBankName": "بنك مصر إيران للتنمية",
+          "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
           "sell": 4.052,
@@ -910,6 +910,14 @@
           "logo": "https://s26.postimg.org/5crhnme0p/image.png",
           "sell": 4.422,
           "buy": 4.356
+        },
+        {
+          "arBankName": "بنك القاهرة",
+          "enBankName": "Banque du Caire",
+          "shortName": "BC",
+          "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
+          "sell": 4.425,
+          "buy": 4.215
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -984,14 +992,6 @@
           "buy": 4.288
         },
         {
-          "arBankName": "بنك القاهرة",
-          "enBankName": "Banque du Baire",
-          "shortName": "BC",
-          "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
-          "sell": 4.425,
-          "buy": 4.215
-        },
-        {
           "arBankName": "بنك الشركة المصرفية العربية الدولية",
           "enBankName": "Société Arabe Internationale de Banque",
           "shortName": "SAIB",
@@ -1000,8 +1000,8 @@
           "buy": 0
         },
         {
-          "arBankName": "بنك الشركة المصرفية العربية الدولية",
-          "enBankName": "Société Arabe Internationale de Banque",
+          "arBankName": "بنك مصر إيران للتنمية",
+          "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
           "sell": 4.136,
@@ -1054,6 +1054,14 @@
           "logo": "https://s26.postimg.org/5crhnme0p/image.png",
           "sell": 53.657,
           "buy": 52.701
+        },
+        {
+          "arBankName": "بنك القاهرة",
+          "enBankName": "Banque du Caire",
+          "shortName": "BC",
+          "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
+          "sell": 53.749,
+          "buy": 49.387
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -1128,14 +1136,6 @@
           "buy": 52.011
         },
         {
-          "arBankName": "بنك القاهرة",
-          "enBankName": "Banque du Baire",
-          "shortName": "BC",
-          "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
-          "sell": 53.749,
-          "buy": 49.387
-        },
-        {
           "arBankName": "بنك الشركة المصرفية العربية الدولية",
           "enBankName": "Société Arabe Internationale de Banque",
           "shortName": "SAIB",
@@ -1144,8 +1144,8 @@
           "buy": 53.613
         },
         {
-          "arBankName": "بنك الشركة المصرفية العربية الدولية",
-          "enBankName": "Société Arabe Internationale de Banque",
+          "arBankName": "بنك مصر إيران للتنمية",
+          "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
           "sell": 0,
