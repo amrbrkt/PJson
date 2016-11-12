@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-11-2016, 18:20",
+  "lastUpdate": "12-11-2016, 18:33",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -693,7 +693,7 @@
           "shortName": "BBE",
           "logo": "https://s26.postimg.org/uhii11dh5/bloom.png",
           "sell": 15.56,
-          "buy": 15.56
+          "buy": 14.262
         },
         {
           "arBankName": "كريدي أجريكول",
