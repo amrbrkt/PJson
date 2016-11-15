@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-11-2016, 14:34",
+  "lastUpdate": "15-11-2016, 18:00",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -69,7 +69,7 @@
           "shortName": "HDB",
           "logo": "https://s26.postimg.org/m5s9ga3cp/hdb.png",
           "sell": 15.85,
-          "buy": 14.9
+          "buy": 15
         },
         {
           "arBankName": "البنك المصري الخليجي",
@@ -140,8 +140,8 @@
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
-          "sell": 16,
-          "buy": 15
+          "sell": 15.9,
+          "buy": 15.2
         }
       ]
     },
@@ -181,7 +181,7 @@
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
           "sell": 17.035,
-          "buy": 16.372
+          "buy": 16.351
         },
         {
           "arBankName": "بنك مصر",
@@ -253,7 +253,7 @@
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
           "sell": 17.281,
-          "buy": 16.249
+          "buy": 16.313
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -284,8 +284,8 @@
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
-          "sell": 17.269,
-          "buy": 16.093
+          "sell": 17.209,
+          "buy": 16.353
         }
       ]
     },
@@ -325,7 +325,7 @@
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
           "sell": 19.732,
-          "buy": 18.966
+          "buy": 18.883
         },
         {
           "arBankName": "بنك مصر",
@@ -397,7 +397,7 @@
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
           "sell": 20.016,
-          "buy": 18.758
+          "buy": 18.832
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -428,8 +428,8 @@
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
-          "sell": 20.029,
-          "buy": 18.665
+          "sell": 19.8,
+          "buy": 18.815
         }
       ]
     },
@@ -469,7 +469,7 @@
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
           "sell": 15.863,
-          "buy": 15.267
+          "buy": 15.216
         },
         {
           "arBankName": "بنك مصر",
@@ -572,8 +572,8 @@
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
-          "sell": 16.116,
-          "buy": 15.018
+          "sell": 16.023,
+          "buy": 15.226
         }
       ]
     },
@@ -613,7 +613,7 @@
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
           "sell": 14.613,
-          "buy": 14.063
+          "buy": 13.996
         },
         {
           "arBankName": "بنك مصر",
@@ -716,8 +716,8 @@
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
-          "sell": 14.864,
-          "buy": 13.852
+          "sell": 14.752,
+          "buy": 14.019
         }
       ]
     },
@@ -829,7 +829,7 @@
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
           "sell": 4.26,
-          "buy": 3.931
+          "buy": 3.985
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -860,8 +860,8 @@
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
-          "sell": 4.284,
-          "buy": 3.92
+          "sell": 4.256,
+          "buy": 3.972
         }
       ]
     },
@@ -1004,8 +1004,8 @@
           "enBankName": "Misr Iran Development Bank ",
           "shortName": "MIDB",
           "logo": "https://s26.postimg.org/r5ppo88zd/mib.png",
-          "sell": 4.373,
-          "buy": 4.002
+          "sell": 4.347,
+          "buy": 4.056
         }
       ]
     },
