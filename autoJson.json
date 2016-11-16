@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-11-2016, 16:00",
+  "lastUpdate": "16-11-2016, 19:50",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -53,7 +53,7 @@
           "shortName": "SCB",
           "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
           "sell": 15.7,
-          "buy": 15.2
+          "buy": 15.3
         },
         {
           "arBankName": "بنك الإسكان والتعمير",
@@ -61,7 +61,7 @@
           "shortName": "HDB",
           "logo": "https://s26.postimg.org/m5s9ga3cp/hdb.png",
           "sell": 15.85,
-          "buy": 15
+          "buy": 15.1
         },
         {
           "arBankName": "البنك المصري الخليجي",
@@ -69,7 +69,7 @@
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 16,
-          "buy": 15.25
+          "buy": 15.5
         },
         {
           "arBankName": "بنك بلوم - مصر",
@@ -92,16 +92,16 @@
           "enBankName": "Abu Dhabi Islamic Bank",
           "shortName": "ADIB",
           "logo": "https://s26.postimg.org/bdup16nw9/adib.png",
-          "sell": 15.95,
-          "buy": 15.6
+          "sell": 16,
+          "buy": 15.4
         },
         {
           "arBankName": "بنك البركة",
           "enBankName": "Al Baraka Bank",
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
-          "sell": 16,
-          "buy": 15.46
+          "sell": 16.25,
+          "buy": 15.55
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -196,8 +196,8 @@
           "enBankName": "Suez Canal Bank",
           "shortName": "SCB",
           "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
-          "sell": 17.1068,
-          "buy": 16.05
+          "sell": 16.8916,
+          "buy": 16.3526
         },
         {
           "arBankName": "بنك الإسكان والتعمير",
@@ -213,7 +213,7 @@
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 17.2192,
-          "buy": 16.3099
+          "buy": 16.5618
         },
         {
           "arBankName": "بنك بلوم - مصر",
@@ -236,16 +236,16 @@
           "enBankName": "Abu Dhabi Islamic Bank",
           "shortName": "ADIB",
           "logo": "https://s26.postimg.org/bdup16nw9/adib.png",
-          "sell": 17.1606,
-          "buy": 16.6842
+          "sell": 17.2144,
+          "buy": 16.4272
         },
         {
           "arBankName": "بنك البركة",
           "enBankName": "Al Baraka Bank",
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
-          "sell": 17.2144,
-          "buy": 16.3106
+          "sell": 17.4834,
+          "buy": 16.3872
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -340,8 +340,8 @@
           "enBankName": "Suez Canal Bank",
           "shortName": "SCB",
           "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
-          "sell": 19.8782,
-          "buy": 18.6555
+          "sell": 19.6281,
+          "buy": 18.9904
         },
         {
           "arBankName": "بنك الإسكان والتعمير",
@@ -357,7 +357,7 @@
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 20.0112,
-          "buy": 18.9558
+          "buy": 19.2324
         },
         {
           "arBankName": "بنك بلوم - مصر",
@@ -380,16 +380,16 @@
           "enBankName": "Abu Dhabi Islamic Bank",
           "shortName": "ADIB",
           "logo": "https://s26.postimg.org/bdup16nw9/adib.png",
-          "sell": 19.9407,
-          "buy": 19.3627
+          "sell": 20.0032,
+          "buy": 19.1145
         },
         {
           "arBankName": "بنك البركة",
           "enBankName": "Al Baraka Bank",
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
-          "sell": 20.0032,
-          "buy": 18.9584
+          "sell": 20.3158,
+          "buy": 19.0305
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -484,8 +484,8 @@
           "enBankName": "Suez Canal Bank",
           "shortName": "SCB",
           "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
-          "sell": 15.9255,
-          "buy": 14.9551
+          "sell": 15.7252,
+          "buy": 15.2178
         },
         {
           "arBankName": "بنك الإسكان والتعمير",
@@ -501,7 +501,7 @@
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 0.1471,
-          "buy": 0.139
+          "buy": 0.1412
         },
         {
           "arBankName": "بنك بلوم - مصر",
@@ -532,8 +532,8 @@
           "enBankName": "Al Baraka Bank",
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
-          "sell": 16.0256,
-          "buy": 15.198
+          "sell": 16.276,
+          "buy": 15.25
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -645,7 +645,7 @@
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 16.0337,
-          "buy": 15.1666
+          "buy": 15.406
         },
         {
           "arBankName": "بنك بلوم - مصر",
@@ -676,8 +676,8 @@
           "enBankName": "Al Baraka Bank",
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
-          "sell": 14.704500000000001,
-          "buy": 13.9223
+          "sell": 14.9343,
+          "buy": 13.9702
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -772,8 +772,8 @@
           "enBankName": "Suez Canal Bank",
           "shortName": "SCB",
           "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
-          "sell": 4.2394,
-          "buy": 3.9993
+          "sell": 4.1861,
+          "buy": 4.0792
         },
         {
           "arBankName": "بنك الإسكان والتعمير",
@@ -789,7 +789,7 @@
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 4.2678,
-          "buy": 4.0643
+          "buy": 4.1309
         },
         {
           "arBankName": "بنك بلوم - مصر",
@@ -812,16 +812,16 @@
           "enBankName": "Abu Dhabi Islamic Bank",
           "shortName": "ADIB",
           "logo": "https://s26.postimg.org/bdup16nw9/adib.png",
-          "sell": 4.2528,
-          "buy": 4.1592
+          "sell": 4.2661,
+          "buy": 4.1059
         },
         {
           "arBankName": "بنك البركة",
           "enBankName": "Al Baraka Bank",
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
-          "sell": 4.3001,
-          "buy": 3.9983
+          "sell": 4.3673,
+          "buy": 4.0216
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -933,7 +933,7 @@
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 4.3573,
-          "buy": 4.1508
+          "buy": 4.2188
         },
         {
           "arBankName": "بنك بلوم - مصر",
@@ -956,8 +956,8 @@
           "enBankName": "Abu Dhabi Islamic Bank",
           "shortName": "ADIB",
           "logo": "https://s26.postimg.org/bdup16nw9/adib.png",
-          "sell": 4.343,
-          "buy": 4.2467
+          "sell": 4.3566,
+          "buy": 4.1923
         },
         {
           "arBankName": "بنك البركة",
@@ -1077,7 +1077,7 @@
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 52.6836,
-          "buy": 50.0492
+          "buy": 50.853
         },
         {
           "arBankName": "بنك بلوم - مصر",
