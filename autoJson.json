@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-11-2016, 19:50",
+  "lastUpdate": "17-11-2016, 08:27",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -36,7 +36,7 @@
           "enBankName": "Banque Misr",
           "shortName": "BM",
           "logo": "https://s26.postimg.org/5crhnme0p/image.png",
-          "sell": 15.65,
+          "sell": 15.8,
           "buy": 15.2
         },
         {
@@ -45,7 +45,7 @@
           "shortName": "BC",
           "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
           "sell": 15.75,
-          "buy": 15.1
+          "buy": 15.25
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -69,7 +69,7 @@
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 16,
-          "buy": 15.5
+          "buy": 15
         },
         {
           "arBankName": "بنك بلوم - مصر",
@@ -172,16 +172,16 @@
           "enBankName": "National Bank of Egypt",
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
-          "sell": 16.8378,
-          "buy": 16.264
+          "sell": 16.7674,
+          "buy": 16.2458
         },
         {
           "arBankName": "بنك مصر",
           "enBankName": "Banque Misr",
           "shortName": "BM",
           "logo": "https://s26.postimg.org/5crhnme0p/image.png",
-          "sell": 16.8294,
-          "buy": 16.264
+          "sell": 16.9197,
+          "buy": 16.2458
         },
         {
           "arBankName": "بنك القاهرة",
@@ -189,14 +189,14 @@
           "shortName": "BC",
           "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
           "sell": 16.9454,
-          "buy": 16.157
+          "buy": 16.2672
         },
         {
           "arBankName": "بنك قناة السويس",
           "enBankName": "Suez Canal Bank",
           "shortName": "SCB",
           "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
-          "sell": 16.8916,
+          "sell": 16.821,
           "buy": 16.3526
         },
         {
@@ -213,7 +213,7 @@
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 17.2192,
-          "buy": 16.5618
+          "buy": 15.996
         },
         {
           "arBankName": "بنك بلوم - مصر",
@@ -316,16 +316,16 @@
           "enBankName": "National Bank of Egypt",
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
-          "sell": 19.5656,
-          "buy": 18.9042
+          "sell": 19.5077,
+          "buy": 18.8647
         },
         {
           "arBankName": "بنك مصر",
           "enBankName": "Banque Misr",
           "shortName": "BM",
           "logo": "https://s26.postimg.org/5crhnme0p/image.png",
-          "sell": 19.5558,
-          "buy": 18.9042
+          "sell": 19.6849,
+          "buy": 18.8647
         },
         {
           "arBankName": "بنك القاهرة",
@@ -333,15 +333,15 @@
           "shortName": "BC",
           "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
           "sell": 19.6907,
-          "buy": 18.7799
+          "buy": 18.9283
         },
         {
           "arBankName": "بنك قناة السويس",
           "enBankName": "Suez Canal Bank",
           "shortName": "SCB",
           "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
-          "sell": 19.6281,
-          "buy": 18.9904
+          "sell": 19.5701,
+          "buy": 18.9888
         },
         {
           "arBankName": "بنك الإسكان والتعمير",
@@ -357,7 +357,7 @@
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 20.0112,
-          "buy": 19.2324
+          "buy": 18.612
         },
         {
           "arBankName": "بنك بلوم - مصر",
@@ -460,16 +460,16 @@
           "enBankName": "National Bank of Egypt",
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
-          "sell": 15.6751,
-          "buy": 15.1545
+          "sell": 15.6422,
+          "buy": 15.1515
         },
         {
           "arBankName": "بنك مصر",
           "enBankName": "Banque Misr",
           "shortName": "BM",
           "logo": "https://s26.postimg.org/5crhnme0p/image.png",
-          "sell": 15.6672,
-          "buy": 15.1545
+          "sell": 15.7842,
+          "buy": 15.1515
         },
         {
           "arBankName": "بنك القاهرة",
@@ -477,15 +477,15 @@
           "shortName": "BC",
           "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
           "sell": 15.7752,
-          "buy": 15.0548
+          "buy": 15.1636
         },
         {
           "arBankName": "بنك قناة السويس",
           "enBankName": "Suez Canal Bank",
           "shortName": "SCB",
           "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
-          "sell": 15.7252,
-          "buy": 15.2178
+          "sell": 15.6922,
+          "buy": 15.2512
         },
         {
           "arBankName": "بنك الإسكان والتعمير",
@@ -501,7 +501,7 @@
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 0.1471,
-          "buy": 0.1412
+          "buy": 0.1366
         },
         {
           "arBankName": "بنك بلوم - مصر",
@@ -604,16 +604,16 @@
           "enBankName": "National Bank of Egypt",
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
-          "sell": 14.3829,
-          "buy": 13.8711
+          "sell": 14.416,
+          "buy": 13.908
         },
         {
           "arBankName": "بنك مصر",
           "enBankName": "Banque Misr",
           "shortName": "BM",
           "logo": "https://s26.postimg.org/5crhnme0p/image.png",
-          "sell": 14.3757,
-          "buy": 13.8686
+          "sell": 14.5469,
+          "buy": 13.908
         },
         {
           "arBankName": "بنك القاهرة",
@@ -621,7 +621,7 @@
           "shortName": "BC",
           "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
           "sell": 14.4748,
-          "buy": 13.7749
+          "buy": 13.8952
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -645,7 +645,7 @@
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 16.0337,
-          "buy": 15.406
+          "buy": 14.9061
         },
         {
           "arBankName": "بنك بلوم - مصر",
@@ -748,16 +748,16 @@
           "enBankName": "National Bank of Egypt",
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
-          "sell": 4.1728,
-          "buy": 4.0526
+          "sell": 4.1731,
+          "buy": 4.0525
         },
         {
           "arBankName": "بنك مصر",
           "enBankName": "Banque Misr",
           "shortName": "BM",
           "logo": "https://s26.postimg.org/5crhnme0p/image.png",
-          "sell": 4.1707,
-          "buy": 4.0526
+          "sell": 4.211,
+          "buy": 4.0525
         },
         {
           "arBankName": "بنك القاهرة",
@@ -765,15 +765,15 @@
           "shortName": "BC",
           "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
           "sell": 4.2017,
-          "buy": 3.9842
+          "buy": 4.0237
         },
         {
           "arBankName": "بنك قناة السويس",
           "enBankName": "Suez Canal Bank",
           "shortName": "SCB",
           "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
-          "sell": 4.1861,
-          "buy": 4.0792
+          "sell": 4.1864,
+          "buy": 4.0791
         },
         {
           "arBankName": "بنك الإسكان والتعمير",
@@ -789,7 +789,7 @@
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 4.2678,
-          "buy": 4.1309
+          "buy": 3.9977
         },
         {
           "arBankName": "بنك بلوم - مصر",
@@ -892,16 +892,16 @@
           "enBankName": "National Bank of Egypt",
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
-          "sell": 4.2613,
-          "buy": 4.1379
+          "sell": 4.2608,
+          "buy": 4.1381
         },
         {
           "arBankName": "بنك مصر",
           "enBankName": "Banque Misr",
           "shortName": "BM",
           "logo": "https://s26.postimg.org/5crhnme0p/image.png",
-          "sell": 4.2592,
-          "buy": 4.1379
+          "sell": 4.2995,
+          "buy": 4.1381
         },
         {
           "arBankName": "بنك القاهرة",
@@ -909,7 +909,7 @@
           "shortName": "BC",
           "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
           "sell": 4.2885,
-          "buy": 4.1061
+          "buy": 4.1468
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -933,7 +933,7 @@
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 4.3573,
-          "buy": 4.2188
+          "buy": 4.0827
         },
         {
           "arBankName": "بنك بلوم - مصر",
@@ -1036,16 +1036,16 @@
           "enBankName": "National Bank of Egypt",
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
-          "sell": 51.4633,
-          "buy": 49.9671
+          "sell": 51.4718,
+          "buy": 49.9343
         },
         {
           "arBankName": "بنك مصر",
           "enBankName": "Banque Misr",
           "shortName": "BM",
           "logo": "https://s26.postimg.org/5crhnme0p/image.png",
-          "sell": 51.4207,
-          "buy": 49.9836
+          "sell": 51.9392,
+          "buy": 49.9343
         },
         {
           "arBankName": "بنك القاهرة",
@@ -1053,7 +1053,7 @@
           "shortName": "BC",
           "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
           "sell": 51.775,
-          "buy": 47.959
+          "buy": 48.436
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -1077,7 +1077,7 @@
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 52.6836,
-          "buy": 50.853
+          "buy": 49.1803
         },
         {
           "arBankName": "بنك بلوم - مصر",
