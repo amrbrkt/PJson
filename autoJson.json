@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-11-2016, 22:38",
+  "lastUpdate": "18-11-2016, 13:05",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -805,7 +805,7 @@
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
           "sell": 4.2931,
-          "buy": 41056
+          "buy": 4.1056
         },
         {
           "arBankName": "مصرف ابوظبي الإسلامي",
