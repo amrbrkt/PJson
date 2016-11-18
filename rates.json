@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-11-2016, 19:22",
+  "lastUpdate": "18-11-2016, 19:39",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -196,8 +196,8 @@
           "enBankName": "Banque du Caire",
           "shortName": "BC",
           "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
-          "sell": 17.016,
-          "buy": 16.6682
+          "sell": 17.0272,
+          "buy": 16.6478
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -348,8 +348,8 @@
           "enBankName": "Banque du Caire",
           "shortName": "BC",
           "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
-          "sell": 19.8912,
-          "buy": 19.5032
+          "sell": 19.8976,
+          "buy": 19.3772
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -500,8 +500,8 @@
           "enBankName": "Banque du Caire",
           "shortName": "BC",
           "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
-          "sell": 15.8919,
-          "buy": 15.5617
+          "sell": 15.903,
+          "buy": 15.5571
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -652,7 +652,7 @@
           "enBankName": "Banque du Caire",
           "shortName": "BC",
           "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
-          "sell": 14.5468,
+          "sell": 14.5706,
           "buy": 14.1994
         },
         {
@@ -861,7 +861,7 @@
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
           "sell": 4.4326,
-          "buy": 4.1256
+          "buy": 4.1259
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -1255,7 +1255,7 @@
       "arName": "عيار 21",
       "enName": "Carat 21",
       "shName": "",
-      "logo": "https://s26.postimg.org/ajbvdok1l/image.png",
+      "logo": "https://s26.postimg.org/6ffhyxdh5/image.png",
       "egp": 523.33,
       "usd": 33.98
     },
@@ -1263,7 +1263,7 @@
       "arName": "عيار 22",
       "enName": "Carat 22",
       "shName": "",
-      "logo": "https://s26.postimg.org/ba4ljgmex/image.png",
+      "logo": "https://s26.postimg.org/ajbvdok1l/image.png",
       "egp": 548.13,
       "usd": 35.59
     },
@@ -1271,7 +1271,7 @@
       "arName": "عيار 24",
       "enName": "Carat 24",
       "shName": "",
-      "logo": "https://s26.postimg.org/4xpg9mjcp/kilo.png",
+      "logo": "https://s26.postimg.org/ba4ljgmex/image.png",
       "egp": 598.03,
       "usd": 38.83
     },
@@ -1279,7 +1279,7 @@
       "arName": "الأوقية",
       "enName": "Ounce",
       "shName": "",
-      "logo": "https://s26.postimg.org/u54xnmbuh/pound.png",
+      "logo": "https://s26.postimg.org/ygtjcmird/ounce.png",
       "egp": 18598.48,
       "usd": 1207.6
     },
