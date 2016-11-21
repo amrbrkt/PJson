@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-11-2016, 13:21",
+  "lastUpdate": "21-11-2016, 13:52",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -68,7 +68,7 @@
           "enBankName": "Egyptian Gulf Bank",
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
-          "sell": 17.95,
+          "sell": 18,
           "buy": 17.25
         },
         {
@@ -220,7 +220,7 @@
           "enBankName": "Egyptian Gulf Bank",
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
-          "sell": 19.1006,
+          "sell": 19.1736,
           "buy": 18.2436
         },
         {
@@ -372,8 +372,8 @@
           "enBankName": "Egyptian Gulf Bank",
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
-          "sell": 22.2059,
-          "buy": 21.2434
+          "sell": 22.2678,
+          "buy": 21.2313
         },
         {
           "arBankName": "بنك بلوم - مصر",
@@ -524,7 +524,7 @@
           "enBankName": "Egyptian Gulf Bank",
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
-          "sell": 0.1623,
+          "sell": 0.1629,
           "buy": 0.1551
         },
         {
@@ -676,7 +676,7 @@
           "enBankName": "Egyptian Gulf Bank",
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
-          "sell": 17.8217,
+          "sell": 17.8713,
           "buy": 17.0421
         },
         {
@@ -828,7 +828,7 @@
           "enBankName": "Egyptian Gulf Bank",
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
-          "sell": 4.7869,
+          "sell": 4.8003,
           "buy": 4.5982
         },
         {
@@ -980,7 +980,7 @@
           "enBankName": "Egyptian Gulf Bank",
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
-          "sell": 4.8883,
+          "sell": 4.902,
           "buy": 4.6957
         },
         {
@@ -1132,7 +1132,7 @@
           "enBankName": "Egyptian Gulf Bank",
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
-          "sell": 59.1044,
+          "sell": 59.269,
           "buy": 56.5203
         },
         {
