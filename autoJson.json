@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-11-2016, 13:52",
+  "lastUpdate": "21-11-2016, 14:36",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -12,8 +12,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 17.6519,
-          "buy": 17.1494
+          "sell": 17.8526,
+          "buy": 17.3936
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -68,7 +68,7 @@
           "enBankName": "Egyptian Gulf Bank",
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
-          "sell": 18,
+          "sell": 17.95,
           "buy": 17.25
         },
         {
@@ -84,8 +84,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 17.6,
-          "buy": 17.25
+          "sell": 17.9,
+          "buy": 17.4
         },
         {
           "arBankName": "مصرف ابوظبي الإسلامي",
@@ -101,7 +101,7 @@
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
           "sell": 17.8,
-          "buy": 17.47
+          "buy": 17.41
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -164,8 +164,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 18.6952,
-          "buy": 18.1527
+          "sell": 18.9791,
+          "buy": 18.4877
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -220,7 +220,7 @@
           "enBankName": "Egyptian Gulf Bank",
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
-          "sell": 19.1736,
+          "sell": 19.1203,
           "buy": 18.2436
         },
         {
@@ -236,8 +236,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 18.6806,
-          "buy": 18.2505
+          "sell": 19.0617,
+          "buy": 18.4092
         },
         {
           "arBankName": "مصرف ابوظبي الإسلامي",
@@ -252,8 +252,8 @@
           "enBankName": "Al Baraka Bank",
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
-          "sell": 19.099700000000002,
-          "buy": 18.224500000000003
+          "sell": 19.1069,
+          "buy": 18.1619
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -316,8 +316,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 21.8054,
-          "buy": 21.1676
+          "sell": 22.1015,
+          "buy": 21.5316
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -372,7 +372,7 @@
           "enBankName": "Egyptian Gulf Bank",
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
-          "sell": 22.2678,
+          "sell": 22.2185,
           "buy": 21.2313
         },
         {
@@ -388,8 +388,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 21.7571,
-          "buy": 21.2537
+          "sell": 22.1316,
+          "buy": 21.4229
         },
         {
           "arBankName": "مصرف ابوظبي الإسلامي",
@@ -468,8 +468,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 17.4876,
-          "buy": 16.9729
+          "sell": 17.6881,
+          "buy": 17.2197
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -524,7 +524,7 @@
           "enBankName": "Egyptian Gulf Bank",
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
-          "sell": 0.1629,
+          "sell": 0.1624,
           "buy": 0.1551
         },
         {
@@ -540,8 +540,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 17.4447,
-          "buy": 17.0522
+          "sell": 17.765,
+          "buy": 17.2005
         },
         {
           "arBankName": "مصرف ابوظبي الإسلامي",
@@ -620,8 +620,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 15.9156,
-          "buy": 15.4486
+          "sell": 16.1518,
+          "buy": 15.7295
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -676,7 +676,7 @@
           "enBankName": "Egyptian Gulf Bank",
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
-          "sell": 17.8713,
+          "sell": 17.8217,
           "buy": 17.0421
         },
         {
@@ -692,8 +692,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 0.15905,
-          "buy": 0.15515
+          "sell": 0.16192,
+          "buy": 0.1565
         },
         {
           "arBankName": "مصرف ابوظبي الإسلامي",
@@ -708,8 +708,8 @@
           "enBankName": "Al Baraka Bank",
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
-          "sell": 16.2595,
-          "buy": 15.3159
+          "sell": 16.2301,
+          "buy": 15.440100000000001
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -772,8 +772,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 4.7066,
-          "buy": 4.5723
+          "sell": 4.7601,
+          "buy": 4.6374
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -828,7 +828,7 @@
           "enBankName": "Egyptian Gulf Bank",
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
-          "sell": 4.8003,
+          "sell": 4.7869,
           "buy": 4.5982
         },
         {
@@ -844,8 +844,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 4.6923,
-          "buy": 4.5991
+          "sell": 4.7731,
+          "buy": 4.6388
         },
         {
           "arBankName": "مصرف ابوظبي الإسلامي",
@@ -924,8 +924,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 4.8059,
-          "buy": 4.6688
+          "sell": 4.861,
+          "buy": 4.735
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -980,7 +980,7 @@
           "enBankName": "Egyptian Gulf Bank",
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
-          "sell": 4.902,
+          "sell": 4.8883,
           "buy": 4.6957
         },
         {
@@ -996,8 +996,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 4.7916,
-          "buy": 4.6964
+          "sell": 4.8739,
+          "buy": 4.7373
         },
         {
           "arBankName": "مصرف ابوظبي الإسلامي",
@@ -1076,8 +1076,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 57.9132,
-          "buy": 56.2461
+          "sell": 58.6233,
+          "buy": 57.0041
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -1132,7 +1132,7 @@
           "enBankName": "Egyptian Gulf Bank",
           "shortName": "EG Bank",
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
-          "sell": 59.269,
+          "sell": 59.1044,
           "buy": 56.5203
         },
         {
@@ -1148,8 +1148,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 57.8567,
-          "buy": 56.6875
+          "sell": 58.8429,
+          "buy": 57.0679
         },
         {
           "arBankName": "مصرف ابوظبي الإسلامي",
