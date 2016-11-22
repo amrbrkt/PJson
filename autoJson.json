@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-11-2016, 15:54",
+  "lastUpdate": "22-11-2016, 18:11",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -21,7 +21,7 @@
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
           "sell": 17.65,
-          "buy": 17.3
+          "buy": 17.35
         },
         {
           "arBankName": "البنك الأهلي المصري",
@@ -84,8 +84,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 17.75,
-          "buy": 17.25
+          "sell": 17.8,
+          "buy": 17.3
         },
         {
           "arBankName": "مصرف ابوظبي الإسلامي",
@@ -93,7 +93,7 @@
           "shortName": "ADIB",
           "logo": "https://s26.postimg.org/bdup16nw9/adib.png",
           "sell": 17.85,
-          "buy": 17.4
+          "buy": 17.25
         },
         {
           "arBankName": "بنك البركة",
@@ -149,7 +149,7 @@
           "shortName": "AAIB",
           "logo": "https://s26.postimg.org/f4tp9w7zt/aaib.png",
           "sell": 17.62,
-          "buy": 17.42
+          "buy": 17.37
         }
       ]
     },
@@ -172,8 +172,8 @@
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
-          "sell": 18.79549,
-          "buy": 18.34665
+          "sell": 18.81137,
+          "buy": 18.36498
         },
         {
           "arBankName": "البنك الأهلي المصري",
@@ -236,8 +236,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 18.902,
-          "buy": 18.3264
+          "sell": 18.9712,
+          "buy": 18.3467
         },
         {
           "arBankName": "مصرف ابوظبي الإسلامي",
@@ -245,7 +245,7 @@
           "shortName": "ADIB",
           "logo": "https://s26.postimg.org/bdup16nw9/adib.png",
           "sell": 19.0245,
-          "buy": 18.4527
+          "buy": 18.2919
         },
         {
           "arBankName": "بنك البركة",
@@ -300,8 +300,8 @@
           "enBankName": "Arab African International Bank",
           "shortName": "AAIB",
           "logo": "https://s26.postimg.org/f4tp9w7zt/aaib.png",
-          "sell": 18.7635,
-          "buy": 18.4739
+          "sell": 18.7794,
+          "buy": 18.3861
         }
       ]
     },
@@ -325,7 +325,7 @@
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
           "sell": 22.08368,
-          "buy": 21.56618
+          "buy": 21.52094
         },
         {
           "arBankName": "البنك الأهلي المصري",
@@ -388,8 +388,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 22.2088,
-          "buy": 21.5315
+          "sell": 22.2714,
+          "buy": 21.478
         },
         {
           "arBankName": "مصرف ابوظبي الإسلامي",
@@ -397,7 +397,7 @@
           "shortName": "ADIB",
           "logo": "https://s26.postimg.org/bdup16nw9/adib.png",
           "sell": 22.3339,
-          "buy": 21.616
+          "buy": 21.4073
         },
         {
           "arBankName": "بنك البركة",
@@ -453,7 +453,7 @@
           "shortName": "AAIB",
           "logo": "https://s26.postimg.org/f4tp9w7zt/aaib.png",
           "sell": 22.0461,
-          "buy": 21.7158
+          "buy": 21.5457
         }
       ]
     },
@@ -477,7 +477,7 @@
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
           "sell": 17.53205,
-          "buy": 17.09824
+          "buy": 17.12058
         },
         {
           "arBankName": "البنك الأهلي المصري",
@@ -540,8 +540,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 17.6284,
-          "buy": 17.086
+          "sell": 17.678,
+          "buy": 17.0881
         },
         {
           "arBankName": "مصرف ابوظبي الإسلامي",
@@ -605,7 +605,7 @@
           "shortName": "AAIB",
           "logo": "https://s26.postimg.org/f4tp9w7zt/aaib.png",
           "sell": 17.4993,
-          "buy": 17.2168
+          "buy": 17.1403
         }
       ]
     },
@@ -629,7 +629,7 @@
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
           "sell": 16.01072,
-          "buy": 15.55336
+          "buy": 15.5829
         },
         {
           "arBankName": "البنك الأهلي المصري",
@@ -692,7 +692,7 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 0.16095,
+          "sell": 0.16141,
           "buy": 0.15553
         },
         {
@@ -781,7 +781,7 @@
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
           "sell": 4.71041,
-          "buy": 4.59809
+          "buy": 4.61142
         },
         {
           "arBankName": "البنك الأهلي المصري",
@@ -844,8 +844,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 4.7322,
-          "buy": 4.5991
+          "sell": 4.7464,
+          "buy": 4.6121
         },
         {
           "arBankName": "مصرف ابوظبي الإسلامي",
@@ -853,15 +853,15 @@
           "shortName": "ADIB",
           "logo": "https://s26.postimg.org/bdup16nw9/adib.png",
           "sell": 4.7597,
-          "buy": 4.6388
+          "buy": 4.5988
         },
         {
           "arBankName": "بنك البركة",
           "enBankName": "Al Baraka Bank",
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
-          "sell": 4.7808,
-          "buy": 4.4609
+          "sell": 4.7811,
+          "buy": 4.5025
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -909,7 +909,7 @@
           "shortName": "AAIB",
           "logo": "https://s26.postimg.org/f4tp9w7zt/aaib.png",
           "sell": 4.6983,
-          "buy": 4.6187
+          "buy": 4.6055
         }
       ]
     },
@@ -933,7 +933,7 @@
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
           "sell": 4.81034,
-          "buy": 4.69005
+          "buy": 4.70366
         },
         {
           "arBankName": "البنك الأهلي المصري",
@@ -996,16 +996,16 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 4.8326,
-          "buy": 4.6964
+          "sell": 4.8462,
+          "buy": 4.71
         },
         {
           "arBankName": "مصرف ابوظبي الإسلامي",
           "enBankName": "Abu Dhabi Islamic Bank",
           "shortName": "ADIB",
           "logo": "https://s26.postimg.org/bdup16nw9/adib.png",
-          "sell": 4.7373,
-          "buy": 4.7373
+          "sell": 4.6964,
+          "buy": 4.6964
         },
         {
           "arBankName": "بنك البركة",
@@ -1061,7 +1061,7 @@
           "shortName": "AAIB",
           "logo": "https://s26.postimg.org/f4tp9w7zt/aaib.png",
           "sell": 4.7972,
-          "buy": 4.7154
+          "buy": 4.7018
         }
       ]
     },
@@ -1085,7 +1085,7 @@
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
           "sell": 58.14733,
-          "buy": 56.27716
+          "buy": 56.44125
         },
         {
           "arBankName": "البنك الأهلي المصري",
@@ -1148,8 +1148,8 @@
           "enBankName": "Credit Agricole",
           "shortName": "CAE",
           "logo": "https://s26.postimg.org/py69fivll/image.png",
-          "sell": 58.1967,
-          "buy": 56.5852
+          "sell": 58.4181,
+          "buy": 56.7492
         },
         {
           "arBankName": "مصرف ابوظبي الإسلامي",
@@ -1213,7 +1213,7 @@
           "shortName": "AAIB",
           "logo": "https://s26.postimg.org/f4tp9w7zt/aaib.png",
           "sell": 58.4993,
-          "buy": 57.201
+          "buy": 57.0368
         }
       ]
     }
