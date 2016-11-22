@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-11-2016, 14:09",
+  "lastUpdate": "22-11-2016, 15:54",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -12,8 +12,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 17.8526,
-          "buy": 17.3936
+          "sell": 17.7764,
+          "buy": 17.2982
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -60,8 +60,8 @@
           "enBankName": "Housing and Development Bank",
           "shortName": "HDB",
           "logo": "https://s26.postimg.org/m5s9ga3cp/hdb.png",
-          "sell": 17.8,
-          "buy": 17.1
+          "sell": 17.9,
+          "buy": 17.3
         },
         {
           "arBankName": "البنك المصري الخليجي",
@@ -101,7 +101,7 @@
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
           "sell": 17.79,
-          "buy": 17.41
+          "buy": 17.25
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -124,8 +124,8 @@
           "enBankName": "Société Arabe Internationale de Banque",
           "shortName": "SAIB",
           "logo": "https://s26.postimg.org/tulfh0cc9/saib.png",
-          "sell": 17.95,
-          "buy": 17.3
+          "sell": 17.75,
+          "buy": 17.45
         },
         {
           "arBankName": "بنك مصر إيران للتنمية",
@@ -164,8 +164,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 18.9791,
-          "buy": 18.4877
+          "sell": 18.8874,
+          "buy": 18.3777
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -204,8 +204,8 @@
           "enBankName": "Suez Canal Bank",
           "shortName": "SCB",
           "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
-          "sell": 18.7955,
-          "buy": 18.3264
+          "sell": 18.8114,
+          "buy": 18.2936
         },
         {
           "arBankName": "بنك الإسكان والتعمير",
@@ -252,8 +252,8 @@
           "enBankName": "Al Baraka Bank",
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
-          "sell": 19.0961,
-          "buy": 18.204800000000002
+          "sell": 19.1123,
+          "buy": 18.0375
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -276,8 +276,8 @@
           "enBankName": "Société Arabe Internationale de Banque",
           "shortName": "SAIB",
           "logo": "https://s26.postimg.org/tulfh0cc9/saib.png",
-          "sell": 18.94,
-          "buy": 18.3
+          "sell": 18.91,
+          "buy": 18.5
         },
         {
           "arBankName": "بنك مصر إيران للتنمية",
@@ -316,8 +316,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 22.1015,
-          "buy": 21.5316
+          "sell": 22.1351,
+          "buy": 21.5311
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -357,7 +357,7 @@
           "shortName": "SCB",
           "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
           "sell": 22.0837,
-          "buy": 21.5315
+          "buy": 21.4297
         },
         {
           "arBankName": "بنك الإسكان والتعمير",
@@ -405,7 +405,7 @@
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
           "sell": 22.4369,
-          "buy": 21.3995
+          "buy": 21.1297
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -428,8 +428,8 @@
           "enBankName": "Société Arabe Internationale de Banque",
           "shortName": "SAIB",
           "logo": "https://s26.postimg.org/tulfh0cc9/saib.png",
-          "sell": 22.06,
-          "buy": 21.31
+          "sell": 22.2,
+          "buy": 21.66
         },
         {
           "arBankName": "بنك مصر إيران للتنمية",
@@ -468,8 +468,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 17.6881,
-          "buy": 17.2197
+          "sell": 17.5969,
+          "buy": 17.1219
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -509,7 +509,7 @@
           "shortName": "SCB",
           "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
           "sell": 17.529,
-          "buy": 17.0843
+          "buy": 17.0488
         },
         {
           "arBankName": "بنك الإسكان والتعمير",
@@ -557,7 +557,7 @@
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
           "sell": 17.8094,
-          "buy": 16.9661
+          "buy": 16.8002
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -580,8 +580,8 @@
           "enBankName": "Société Arabe Internationale de Banque",
           "shortName": "SAIB",
           "logo": "https://s26.postimg.org/tulfh0cc9/saib.png",
-          "sell": 17.69,
-          "buy": 17.1
+          "sell": 17.62,
+          "buy": 17.23
         },
         {
           "arBankName": "بنك مصر إيران للتنمية",
@@ -620,8 +620,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 16.1518,
-          "buy": 15.7295
+          "sell": 16.0465,
+          "buy": 15.6135
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -709,7 +709,7 @@
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
           "sell": 16.2607,
-          "buy": 15.4331
+          "buy": 15.291300000000001
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -772,8 +772,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 4.7601,
-          "buy": 4.6374
+          "sell": 4.7397,
+          "buy": 4.6116
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -813,7 +813,7 @@
           "shortName": "SCB",
           "logo": "https://s26.postimg.org/4v1uo9bp5/scb.png",
           "sell": 4.7064,
-          "buy": 4.599
+          "buy": 4.5988
         },
         {
           "arBankName": "بنك الإسكان والتعمير",
@@ -860,8 +860,8 @@
           "enBankName": "Al Baraka Bank",
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
-          "sell": 4.7811,
-          "buy": 4.5025
+          "sell": 4.7808,
+          "buy": 4.4609
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -884,8 +884,8 @@
           "enBankName": "Société Arabe Internationale de Banque",
           "shortName": "SAIB",
           "logo": "https://s26.postimg.org/tulfh0cc9/saib.png",
-          "sell": 4.75,
-          "buy": 4.61
+          "sell": 4.73,
+          "buy": 4.65
         },
         {
           "arBankName": "بنك مصر إيران للتنمية",
@@ -924,8 +924,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 4.861,
-          "buy": 4.735
+          "sell": 4.8403,
+          "buy": 4.7088
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -1076,8 +1076,8 @@
           "enBankName": "Central Bank of Egypt",
           "shortName": "CBE",
           "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
-          "sell": 58.6233,
-          "buy": 57.0041
+          "sell": 58.4076,
+          "buy": 56.7249
         },
         {
           "arBankName": "بنك الإسكندرية",
@@ -1188,8 +1188,8 @@
           "enBankName": "Société Arabe Internationale de Banque",
           "shortName": "SAIB",
           "logo": "https://s26.postimg.org/tulfh0cc9/saib.png",
-          "sell": 58.67,
-          "buy": 56.75
+          "sell": 58.25,
+          "buy": 57.24
         },
         {
           "arBankName": "بنك مصر إيران للتنمية",
