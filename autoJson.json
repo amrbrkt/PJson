@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-11-2016, 11:07",
+  "lastUpdate": "22-11-2016, 13:05",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -116,8 +116,8 @@
           "enBankName": "Al Ahli Bank of Kuwait",
           "shortName": "ABK",
           "logo": "https://s26.postimg.org/bpc5dy4c9/abk.png",
-          "sell": 17.75,
-          "buy": 17.25
+          "sell": 17.8,
+          "buy": 17.4
         },
         {
           "arBankName": "بنك الشركة المصرفية العربية الدولية",
@@ -181,7 +181,7 @@
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
           "sell": 18.7422,
-          "buy": 18.484
+          "buy": 18.4527
         },
         {
           "arBankName": "بنك مصر",
@@ -268,8 +268,8 @@
           "enBankName": "Al Ahli Bank of Kuwait",
           "shortName": "ABK",
           "logo": "https://s26.postimg.org/bpc5dy4c9/abk.png",
-          "sell": 18.902,
-          "buy": 18.3178
+          "sell": 18.9552,
+          "buy": 18.4527
         },
         {
           "arBankName": "بنك الشركة المصرفية العربية الدولية",
@@ -333,7 +333,7 @@
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
           "sell": 22.0211,
-          "buy": 21.7187
+          "buy": 21.6908
         },
         {
           "arBankName": "بنك مصر",
@@ -404,8 +404,8 @@
           "enBankName": "Al Baraka Bank",
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
-          "sell": 22.435100000000002,
-          "buy": 20.953000000000003
+          "sell": 22.4369,
+          "buy": 21.3995
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -420,8 +420,8 @@
           "enBankName": "Al Ahli Bank of Kuwait",
           "shortName": "ABK",
           "logo": "https://s26.postimg.org/bpc5dy4c9/abk.png",
-          "sell": 22.2088,
-          "buy": 21.5297
+          "sell": 22.2714,
+          "buy": 21.6908
         },
         {
           "arBankName": "بنك الشركة المصرفية العربية الدولية",
@@ -485,7 +485,7 @@
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
           "sell": 17.4794,
-          "buy": 17.2328
+          "buy": 17.1971
         },
         {
           "arBankName": "بنك مصر",
@@ -557,7 +557,7 @@
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
           "sell": 17.8094,
-          "buy": 16.8532
+          "buy": 16.9661
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -572,8 +572,8 @@
           "enBankName": "Al Ahli Bank of Kuwait",
           "shortName": "ABK",
           "logo": "https://s26.postimg.org/bpc5dy4c9/abk.png",
-          "sell": 17.6284,
-          "buy": 17.0741
+          "sell": 17.678,
+          "buy": 17.1971
         },
         {
           "arBankName": "بنك الشركة المصرفية العربية الدولية",
@@ -637,7 +637,7 @@
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
           "sell": 15.9594,
-          "buy": 15.6884
+          "buy": 15.6433
         },
         {
           "arBankName": "بنك مصر",
@@ -724,8 +724,8 @@
           "enBankName": "Al Ahli Bank of Kuwait",
           "shortName": "ABK",
           "logo": "https://s26.postimg.org/bpc5dy4c9/abk.png",
-          "sell": 0.161,
-          "buy": 0.1554
+          "sell": 0.1614,
+          "buy": 0.1564
         },
         {
           "arBankName": "بنك الشركة المصرفية العربية الدولية",
@@ -789,7 +789,7 @@
           "shortName": "NBE",
           "logo": "https://s26.postimg.org/prskcfmgp/nbe.png",
           "sell": 4.6931,
-          "buy": 4.639
+          "buy": 4.6388
         },
         {
           "arBankName": "بنك مصر",
@@ -860,8 +860,8 @@
           "enBankName": "Al Baraka Bank",
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
-          "sell": 4.8358,
-          "buy": 4.501
+          "sell": 4.7811,
+          "buy": 4.5025
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -876,8 +876,8 @@
           "enBankName": "Al Ahli Bank of Kuwait",
           "shortName": "ABK",
           "logo": "https://s26.postimg.org/bpc5dy4c9/abk.png",
-          "sell": 4.7331,
-          "buy": 4.599
+          "sell": 4.7464,
+          "buy": 4.6388
         },
         {
           "arBankName": "بنك الشركة المصرفية العربية الدولية",
@@ -1028,8 +1028,8 @@
           "enBankName": "Al Ahli Bank of Kuwait",
           "shortName": "ABK",
           "logo": "https://s26.postimg.org/bpc5dy4c9/abk.png",
-          "sell": 4.8326,
-          "buy": 4.6964
+          "sell": 4.8462,
+          "buy": 4.7373
         },
         {
           "arBankName": "بنك الشركة المصرفية العربية الدولية",
@@ -1180,8 +1180,8 @@
           "enBankName": "Al Ahli Bank of Kuwait",
           "shortName": "ABK",
           "logo": "https://s26.postimg.org/bpc5dy4c9/abk.png",
-          "sell": 58.254,
-          "buy": 56.5852
+          "sell": 58.4181,
+          "buy": 57.0773
         },
         {
           "arBankName": "بنك الشركة المصرفية العربية الدولية",
