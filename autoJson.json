@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-11-2016, 13:05",
+  "lastUpdate": "22-11-2016, 14:09",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -92,15 +92,15 @@
           "enBankName": "Abu Dhabi Islamic Bank",
           "shortName": "ADIB",
           "logo": "https://s26.postimg.org/bdup16nw9/adib.png",
-          "sell": 17.75,
-          "buy": 17.2
+          "sell": 17.85,
+          "buy": 17.4
         },
         {
           "arBankName": "بنك البركة",
           "enBankName": "Al Baraka Bank",
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
-          "sell": 18,
+          "sell": 17.79,
           "buy": 17.41
         },
         {
@@ -196,8 +196,8 @@
           "enBankName": "Banque du Caire",
           "shortName": "BC",
           "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
-          "sell": 18.902,
-          "buy": 18.3264
+          "sell": 18.918,
+          "buy": 18.2936
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -244,15 +244,15 @@
           "enBankName": "Abu Dhabi Islamic Bank",
           "shortName": "ADIB",
           "logo": "https://s26.postimg.org/bdup16nw9/adib.png",
-          "sell": 18.902,
-          "buy": 18.2561
+          "sell": 19.0245,
+          "buy": 18.4527
         },
         {
           "arBankName": "بنك البركة",
           "enBankName": "Al Baraka Bank",
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
-          "sell": 19.3215,
+          "sell": 19.0961,
           "buy": 18.204800000000002
         },
         {
@@ -349,7 +349,7 @@
           "shortName": "BC",
           "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
           "sell": 22.2088,
-          "buy": 21.5315
+          "buy": 21.4297
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -396,8 +396,8 @@
           "enBankName": "Abu Dhabi Islamic Bank",
           "shortName": "ADIB",
           "logo": "https://s26.postimg.org/bdup16nw9/adib.png",
-          "sell": 22.2088,
-          "buy": 21.4622
+          "sell": 22.3339,
+          "buy": 21.616
         },
         {
           "arBankName": "بنك البركة",
@@ -501,7 +501,7 @@
           "shortName": "BC",
           "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
           "sell": 17.6284,
-          "buy": 17.0843
+          "buy": 17.0488
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -653,7 +653,7 @@
           "shortName": "BC",
           "logo": "https://s26.postimg.org/5pkpzas1l/bdc.png",
           "sell": 16.0954,
-          "buy": 15.5532
+          "buy": 15.5084
         },
         {
           "arBankName": "بنك قناة السويس",
@@ -709,7 +709,7 @@
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
           "sell": 16.2607,
-          "buy": 15.3374
+          "buy": 15.4331
         },
         {
           "arBankName": "بنك فيصل الإسلامي المصري",
@@ -852,8 +852,8 @@
           "enBankName": "Abu Dhabi Islamic Bank",
           "shortName": "ADIB",
           "logo": "https://s26.postimg.org/bdup16nw9/adib.png",
-          "sell": 4.7331,
-          "buy": 4.5854
+          "sell": 4.7597,
+          "buy": 4.6388
         },
         {
           "arBankName": "بنك البركة",
@@ -1004,8 +1004,8 @@
           "enBankName": "Abu Dhabi Islamic Bank",
           "shortName": "ADIB",
           "logo": "https://s26.postimg.org/bdup16nw9/adib.png",
-          "sell": 4.6828,
-          "buy": 4.6828
+          "sell": 4.7373,
+          "buy": 4.7373
         },
         {
           "arBankName": "بنك البركة",
