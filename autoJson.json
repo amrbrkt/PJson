@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-11-2016, 11:49",
+  "lastUpdate": "23-11-2016, 12:58",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -7,6 +7,14 @@
       "iso": "USD",
       "logo": "https://s26.postimg.org/ff17t8mm1/image.png",
       "exRates": [
+        {
+          "arBankName": "البنك المركزي المصري",
+          "enBankName": "Central Bank of Egypt",
+          "shortName": "CBE",
+          "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
+          "sell": 17.7764,
+          "buy": 17.2982
+        },
         {
           "arBankName": "بنك الإسكندرية",
           "enBankName": "Bank of Alexandria",
@@ -152,6 +160,14 @@
       "logo": "https://s26.postimg.org/uindxc8zd/image.png",
       "exRates": [
         {
+          "arBankName": "البنك المركزي المصري",
+          "enBankName": "Central Bank of Egypt",
+          "shortName": "CBE",
+          "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
+          "sell": 18.8874,
+          "buy": 18.3777
+        },
+        {
           "arBankName": "بنك الإسكندرية",
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
@@ -295,6 +311,14 @@
       "iso": "GBP",
       "logo": "https://s26.postimg.org/5j04tlgu1/image.png",
       "exRates": [
+        {
+          "arBankName": "البنك المركزي المصري",
+          "enBankName": "Central Bank of Egypt",
+          "shortName": "CBE",
+          "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
+          "sell": 22.1351,
+          "buy": 21.5311
+        },
         {
           "arBankName": "بنك الإسكندرية",
           "enBankName": "Bank of Alexandria",
@@ -440,6 +464,14 @@
       "logo": "https://s26.postimg.org/z1v1541h5/image.png",
       "exRates": [
         {
+          "arBankName": "البنك المركزي المصري",
+          "enBankName": "Central Bank of Egypt",
+          "shortName": "CBE",
+          "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
+          "sell": 17.5969,
+          "buy": 17.1219
+        },
+        {
           "arBankName": "بنك الإسكندرية",
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
@@ -583,6 +615,14 @@
       "iso": "JPY",
       "logo": "https://s26.postimg.org/6g6k2gsc9/image.png",
       "exRates": [
+        {
+          "arBankName": "البنك المركزي المصري",
+          "enBankName": "Central Bank of Egypt",
+          "shortName": "CBE",
+          "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
+          "sell": 16.0465,
+          "buy": 15.6135
+        },
         {
           "arBankName": "بنك الإسكندرية",
           "enBankName": "Bank of Alexandria",
@@ -728,6 +768,14 @@
       "logo": "https://s26.postimg.org/fqio60321/image.png",
       "exRates": [
         {
+          "arBankName": "البنك المركزي المصري",
+          "enBankName": "Central Bank of Egypt",
+          "shortName": "CBE",
+          "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
+          "sell": 4.7397,
+          "buy": 4.6116
+        },
+        {
           "arBankName": "بنك الإسكندرية",
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
@@ -872,6 +920,14 @@
       "logo": "https://s26.postimg.org/a7bjb1gmx/image.png",
       "exRates": [
         {
+          "arBankName": "البنك المركزي المصري",
+          "enBankName": "Central Bank of Egypt",
+          "shortName": "CBE",
+          "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
+          "sell": 4.8403,
+          "buy": 4.7088
+        },
+        {
           "arBankName": "بنك الإسكندرية",
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
@@ -1015,6 +1071,14 @@
       "iso": "KWD",
       "logo": "https://s26.postimg.org/msgls76nt/image.png",
       "exRates": [
+        {
+          "arBankName": "البنك المركزي المصري",
+          "enBankName": "Central Bank of Egypt",
+          "shortName": "CBE",
+          "logo": "https://s26.postimg.org/m38dtfzp5/CBE.png",
+          "sell": 58.4076,
+          "buy": 56.7249
+        },
         {
           "arBankName": "بنك الإسكندرية",
           "enBankName": "Bank of Alexandria",
