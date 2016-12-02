@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-12-2016, 19:50",
+  "lastUpdate": "02-12-2016, 19:54",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -22,8 +22,8 @@
           "enBankName": "Bank of Alexandria",
           "shortName": "ALEX Bank",
           "logo": "https://s26.postimg.org/u226awl89/alex.png",
-          "sell": 17.98,
-          "buy": 17.68
+          "sell": 0,
+          "buy": 0
         },
         {
           "id": "NBE",
