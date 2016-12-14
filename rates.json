@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-12-2016, 20:13",
+  "lastUpdate": "14-12-2016, 20:42",
   "currencies": [
     {
       "arTitle": "دولار أمريكي",
@@ -69,15 +69,6 @@
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 18.75,
           "buy": 18.25
-        },
-        {
-          "id": "BBE",
-          "arBankName": "بنك بلوم - مصر",
-          "enBankName": "Blom Bank - Egypt",
-          "shortName": "BBE",
-          "logo": "https://s26.postimg.org/uhii11dh5/bloom.png",
-          "sell": 18.75,
-          "buy": 18.5
         },
         {
           "id": "CAGRI",
@@ -159,6 +150,24 @@
           "logo": "https://s26.postimg.org/f4tp9w7zt/aaib.png",
           "sell": 18.8,
           "buy": 18.4
+        },
+        {
+          "id": "THEUBEG",
+          "arBankName": "المصرف المتحد - مصر",
+          "enBankName": "The United Bank - Egypt",
+          "shortName": "UBE",
+          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
+          "sell": 0,
+          "buy": 0
+        },
+        {
+          "id": "CIB",
+          "arBankName": "البنك التجاري الدولي",
+          "enBankName": "Commercial International Bank",
+          "shortName": "CIB",
+          "logo": "https://s26.postimg.org/ezuzxc709/cib.png",
+          "sell": 0,
+          "buy": 0
         }
       ]
     },
@@ -230,15 +239,6 @@
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 20.003,
           "buy": 19.363
-        },
-        {
-          "id": "BBE",
-          "arBankName": "بنك بلوم - مصر",
-          "enBankName": "Blom Bank - Egypt",
-          "shortName": "BBE",
-          "logo": "https://s26.postimg.org/uhii11dh5/bloom.png",
-          "sell": 19.997,
-          "buy": 19.634
         },
         {
           "id": "CAGRI",
@@ -320,6 +320,24 @@
           "logo": "https://s26.postimg.org/f4tp9w7zt/aaib.png",
           "sell": 20.05,
           "buy": 19.528
+        },
+        {
+          "id": "THEUBEG",
+          "arBankName": "المصرف المتحد - مصر",
+          "enBankName": "The United Bank - Egypt",
+          "shortName": "UBE",
+          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
+          "sell": 0,
+          "buy": 0
+        },
+        {
+          "id": "CIB",
+          "arBankName": "البنك التجاري الدولي",
+          "enBankName": "Commercial International Bank",
+          "shortName": "CIB",
+          "logo": "https://s26.postimg.org/ezuzxc709/cib.png",
+          "sell": 0,
+          "buy": 0
         }
       ]
     },
@@ -391,15 +409,6 @@
           "logo": "https://s26.postimg.org/3vbjsjwjd/egb.png",
           "sell": 23.858,
           "buy": 23.052
-        },
-        {
-          "id": "BBE",
-          "arBankName": "بنك بلوم - مصر",
-          "enBankName": "Blom Bank - Egypt",
-          "shortName": "BBE",
-          "logo": "https://s26.postimg.org/uhii11dh5/bloom.png",
-          "sell": 23.782,
-          "buy": 23.384
         },
         {
           "id": "CAGRI",
@@ -481,6 +490,24 @@
           "logo": "https://s26.postimg.org/f4tp9w7zt/aaib.png",
           "sell": 23.846,
           "buy": 23.248
+        },
+        {
+          "id": "THEUBEG",
+          "arBankName": "المصرف المتحد - مصر",
+          "enBankName": "The United Bank - Egypt",
+          "shortName": "UBE",
+          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
+          "sell": 0,
+          "buy": 0
+        },
+        {
+          "id": "CIB",
+          "arBankName": "البنك التجاري الدولي",
+          "enBankName": "Commercial International Bank",
+          "shortName": "CIB",
+          "logo": "https://s26.postimg.org/ezuzxc709/cib.png",
+          "sell": 0,
+          "buy": 0
         }
       ]
     },
@@ -554,15 +581,6 @@
           "buy": 17.993
         },
         {
-          "id": "BBE",
-          "arBankName": "بنك بلوم - مصر",
-          "enBankName": "Blom Bank - Egypt",
-          "shortName": "BBE",
-          "logo": "https://s26.postimg.org/uhii11dh5/bloom.png",
-          "sell": 18.574,
-          "buy": 18.252
-        },
-        {
           "id": "CAGRI",
           "arBankName": "كريدي أجريكول",
           "enBankName": "Credit Agricole",
@@ -586,8 +604,8 @@
           "enBankName": "Al Baraka Bank",
           "shortName": "Baraka",
           "logo": "https://s26.postimg.org/xeb1ht6k9/brka.png",
-          "sell": 18.873,
-          "buy": 18.035
+          "sell": 18.599,
+          "buy": 17.821
         },
         {
           "id": "FAISAL",
@@ -642,6 +660,24 @@
           "logo": "https://s26.postimg.org/f4tp9w7zt/aaib.png",
           "sell": 18.623,
           "buy": 18.153
+        },
+        {
+          "id": "THEUBEG",
+          "arBankName": "المصرف المتحد - مصر",
+          "enBankName": "The United Bank - Egypt",
+          "shortName": "UBE",
+          "logo": "https://s26.postimg.org/984zkf9tl/theube.png",
+          "sell": 0,
+          "buy": 0
+        },
+        {
+          "id": "CIB",
+          "arBankName": "البنك التجاري الدولي",
+          "enBankName": "Commercial International Bank",
+          "shortName": "CIB",
+          "logo": "https://s26.postimg.org/ezuzxc709/cib.png",
+          "sell": 0,
+          "buy": 0
         }
       ]
     }
